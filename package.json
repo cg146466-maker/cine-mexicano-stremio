@@ -1,0 +1,15 @@
+{
+  "name": "stremio-cine-mexicano-500",
+  "version": "2.0.0",
+  "description": "La gran videoteca del cine mexicano: 500 títulos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}

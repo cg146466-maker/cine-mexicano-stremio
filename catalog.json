@@ -1,0 +1,5660 @@
+{
+  "items": [
+    {
+      "id": "mx:1936:allenelranchogrande:1",
+      "type": "movie",
+      "name": "Allá en el Rancho Grande",
+      "year": 1936,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1936:allenelranchogrande:1",
+      "type": "movie",
+      "name": "Allá en el Rancho Grande",
+      "year": 1936,
+      "section": "Jorge Negrete"
+    },
+    {
+      "id": "mx:1936:irmalamala:2",
+      "type": "movie",
+      "name": "Irma la mala",
+      "year": 1936,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1936:jalisconuncapierde:3",
+      "type": "movie",
+      "name": "Jalisco nunca pierde",
+      "year": 1936,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1936:noteengaescorazn:4",
+      "type": "movie",
+      "name": "No te engañes corazón",
+      "year": 1936,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1936:noteengaescorazn:4",
+      "type": "movie",
+      "name": "No te engañes corazón",
+      "year": 1936,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1936:vmonosconpanchovilla:5",
+      "type": "movie",
+      "name": "¡Vámonos con Pancho Villa!",
+      "year": 1936,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1937:bajoelcielodemxico:6",
+      "type": "movie",
+      "name": "Bajo el cielo de México",
+      "year": 1937,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1937:diablillosdearrabal:7",
+      "type": "movie",
+      "name": "Diablillos de arrabal",
+      "year": 1937,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1937:lamujerdenadie:8",
+      "type": "movie",
+      "name": "La mujer de nadie",
+      "year": 1937,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1937:asesmitierra:9",
+      "type": "movie",
+      "name": "¡Así es mi tierra!",
+      "year": 1937,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1937:asesmitierra:9",
+      "type": "movie",
+      "name": "¡Así es mi tierra!",
+      "year": 1937,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1938:laadelita:10",
+      "type": "movie",
+      "name": "La Adelita",
+      "year": 1938,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1938:lazandunga:11",
+      "type": "movie",
+      "name": "La Zandunga",
+      "year": 1938,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1938:losmillonesdechafln:12",
+      "type": "movie",
+      "name": "Los millones de Chaflán",
+      "year": 1938,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1938:guilaosol:13",
+      "type": "movie",
+      "name": "Águila o sol",
+      "year": 1938,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1938:guilaosol:13",
+      "type": "movie",
+      "name": "Águila o sol",
+      "year": 1938,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1939:elsignodelamuerte:14",
+      "type": "movie",
+      "name": "El signo de la muerte",
+      "year": 1939,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1939:elsignodelamuerte:14",
+      "type": "movie",
+      "name": "El signo de la muerte",
+      "year": 1939,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1940:ahesteldetalle:15",
+      "type": "movie",
+      "name": "Ahí está el detalle",
+      "year": 1940,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1940:ahesteldetalle:15",
+      "type": "movie",
+      "name": "Ahí está el detalle",
+      "year": 1940,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1940:elcharronegro:16",
+      "type": "movie",
+      "name": "El charro negro",
+      "year": 1940,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1940:entiemposdedonporfirio:17",
+      "type": "movie",
+      "name": "En tiempos de Don Porfirio",
+      "year": 1940,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1940:losdeabajo:18",
+      "type": "movie",
+      "name": "Los de abajo",
+      "year": 1940,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1941:cuandoloshijossevan:19",
+      "type": "movie",
+      "name": "Cuando los hijos se van",
+      "year": 1941,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1941:cuandoloshijossevan:19",
+      "type": "movie",
+      "name": "Cuando los hijos se van",
+      "year": 1941,
+      "section": "Sara García"
+    },
+    {
+      "id": "mx:1941:elgendarmedesconocido:20",
+      "type": "movie",
+      "name": "El gendarme desconocido",
+      "year": 1941,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1941:elgendarmedesconocido:20",
+      "type": "movie",
+      "name": "El gendarme desconocido",
+      "year": 1941,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1941:elsecretodelsacerdote:21",
+      "type": "movie",
+      "name": "El secreto del sacerdote",
+      "year": 1941,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1941:lagallinaclueca:22",
+      "type": "movie",
+      "name": "La gallina clueca",
+      "year": 1941,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1941:lagallinaclueca:22",
+      "type": "movie",
+      "name": "La gallina clueca",
+      "year": 1941,
+      "section": "Sara García"
+    },
+    {
+      "id": "mx:1941:nisangreniarena:23",
+      "type": "movie",
+      "name": "Ni sangre ni arena",
+      "year": 1941,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1941:nisangreniarena:23",
+      "type": "movie",
+      "name": "Ni sangre ni arena",
+      "year": 1941,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1941:ayjalisconoterajes:24",
+      "type": "movie",
+      "name": "¡Ay Jalisco... no te rajes!",
+      "year": 1941,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1941:ayjalisconoterajes:24",
+      "type": "movie",
+      "name": "¡Ay Jalisco... no te rajes!",
+      "year": 1941,
+      "section": "Jorge Negrete"
+    },
+    {
+      "id": "mx:1941:ayqutiemposseordonsimn:25",
+      "type": "movie",
+      "name": "¡Ay, qué tiempos, señor don Simón!",
+      "year": 1941,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1942:carnavaleneltrpico:26",
+      "type": "movie",
+      "name": "Carnaval en el trópico",
+      "year": 1942,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1942:carnavaleneltrpico:26",
+      "type": "movie",
+      "name": "Carnaval en el trópico",
+      "year": 1942,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1942:elbaisanojalil:27",
+      "type": "movie",
+      "name": "El baisano Jalil",
+      "year": 1942,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1942:elbaisanojalil:27",
+      "type": "movie",
+      "name": "El baisano Jalil",
+      "year": 1942,
+      "section": "Sara García"
+    },
+    {
+      "id": "mx:1942:historiadeungranamor:28",
+      "type": "movie",
+      "name": "Historia de un gran amor",
+      "year": 1942,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1942:historiadeungranamor:28",
+      "type": "movie",
+      "name": "Historia de un gran amor",
+      "year": 1942,
+      "section": "Jorge Negrete"
+    },
+    {
+      "id": "mx:1942:jesusitaenchihuahua:29",
+      "type": "movie",
+      "name": "Jesusita en Chihuahua",
+      "year": 1942,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1942:lavirgenqueforjunapatria:30",
+      "type": "movie",
+      "name": "La virgen que forjó una patria",
+      "year": 1942,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1942:lostresmosqueteros:31",
+      "type": "movie",
+      "name": "Los tres mosqueteros",
+      "year": 1942,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1942:lostresmosqueteros:31",
+      "type": "movie",
+      "name": "Los tres mosqueteros",
+      "year": 1942,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1942:assequiereenjalisco:32",
+      "type": "movie",
+      "name": "¡Así se quiere en Jalisco!",
+      "year": 1942,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1942:assequiereenjalisco:32",
+      "type": "movie",
+      "name": "¡Así se quiere en Jalisco!",
+      "year": 1942,
+      "section": "Jorge Negrete"
+    },
+    {
+      "id": "mx:1943:adisjuventud:33",
+      "type": "movie",
+      "name": "Adiós juventud",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:adismichaparrita:34",
+      "type": "movie",
+      "name": "Adiós mi chaparrita",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:avesinnido:35",
+      "type": "movie",
+      "name": "Ave sin nido",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:aventurasdecucuruchitoypinocho:36",
+      "type": "movie",
+      "name": "Aventuras de Cucuruchito y Pinocho",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:cantoalasamricas:37",
+      "type": "movie",
+      "name": "Canto a las Américas",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:cristbalcoln:38",
+      "type": "movie",
+      "name": "Cristóbal Colón",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:cuandohablaelcorazn:39",
+      "type": "movie",
+      "name": "Cuando habla el corazón",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:distintoamanecer:40",
+      "type": "movie",
+      "name": "Distinto amanecer",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:doabrbara:41",
+      "type": "movie",
+      "name": "Doña Bárbara",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:doabrbara:41",
+      "type": "movie",
+      "name": "Doña Bárbara",
+      "year": 1943,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1943:dulcemadrema:42",
+      "type": "movie",
+      "name": "Dulce madre mía",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:elametralladora:43",
+      "type": "movie",
+      "name": "El ametralladora",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:elcirco:44",
+      "type": "movie",
+      "name": "El circo",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:elcirco:44",
+      "type": "movie",
+      "name": "El circo",
+      "year": 1943,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1943:elespectrodelanovia:45",
+      "type": "movie",
+      "name": "El espectro de la novia",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:elglobodecantoya:46",
+      "type": "movie",
+      "name": "El globo de Cantoya",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:elhombredelamscaradehierro:47",
+      "type": "movie",
+      "name": "El hombre de la máscara de hierro",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:eljorobado:48",
+      "type": "movie",
+      "name": "El jorobado",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:elmisteriososeormarquina:49",
+      "type": "movie",
+      "name": "El misterioso señor Marquina",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:elpadremorelos:50",
+      "type": "movie",
+      "name": "El padre Morelos",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:elpendelasnimas:51",
+      "type": "movie",
+      "name": "El Peñón de las Ánimas",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:elpendelasnimas:51",
+      "type": "movie",
+      "name": "El Peñón de las Ánimas",
+      "year": 1943,
+      "section": "Jorge Negrete"
+    },
+    {
+      "id": "mx:1943:elrayodelsur:52",
+      "type": "movie",
+      "name": "El rayo del sur",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:elrebelde:53",
+      "type": "movie",
+      "name": "El rebelde",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:elrebelde:53",
+      "type": "movie",
+      "name": "El rebelde",
+      "year": 1943,
+      "section": "Jorge Negrete"
+    },
+    {
+      "id": "mx:1943:espionajeenelgolfo:54",
+      "type": "movie",
+      "name": "Espionaje en el Golfo",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:florsilvestre:55",
+      "type": "movie",
+      "name": "Flor silvestre",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:florsilvestre:55",
+      "type": "movie",
+      "name": "Flor silvestre",
+      "year": 1943,
+      "section": "Dolores del Río"
+    },
+    {
+      "id": "mx:1943:guadalajara:56",
+      "type": "movie",
+      "name": "Guadalajara",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:internadoparaseoritas:57",
+      "type": "movie",
+      "name": "Internado para señoritas",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:lahijadelcielo:58",
+      "type": "movie",
+      "name": "La hija del cielo",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:larazndelaculpa:59",
+      "type": "movie",
+      "name": "La razón de la culpa",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:loquesloelhombrepuedesufrir:60",
+      "type": "movie",
+      "name": "Lo que sólo el hombre puede sufrir",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:losmiserables:61",
+      "type": "movie",
+      "name": "Los miserables",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:maravilladeltoreo:62",
+      "type": "movie",
+      "name": "Maravilla del toreo",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:maracandelaria:63",
+      "type": "movie",
+      "name": "María Candelaria",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:maracandelaria:63",
+      "type": "movie",
+      "name": "María Candelaria",
+      "year": 1943,
+      "section": "Dolores del Río"
+    },
+    {
+      "id": "mx:1943:mexicanosalgritodeguerra:64",
+      "type": "movie",
+      "name": "Mexicanos al grito de guerra",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:morenitaclara:65",
+      "type": "movie",
+      "name": "Morenita clara",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:nomatars:66",
+      "type": "movie",
+      "name": "No matarás",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:resurreccin:67",
+      "type": "movie",
+      "name": "Resurrección",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:romeoyjulieta:68",
+      "type": "movie",
+      "name": "Romeo y Julieta",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1943:romeoyjulieta:68",
+      "type": "movie",
+      "name": "Romeo y Julieta",
+      "year": 1943,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1943:tormentaenlacumbre:69",
+      "type": "movie",
+      "name": "Tormenta en la cumbre",
+      "year": 1943,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:amok:70",
+      "type": "movie",
+      "name": "Amok",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:balaj:71",
+      "type": "movie",
+      "name": "Balajú",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:caminitoalegre:72",
+      "type": "movie",
+      "name": "Caminito alegre",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:crueldestino:73",
+      "type": "movie",
+      "name": "Cruel destino",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:cuandoquiereunmexicano:74",
+      "type": "movie",
+      "name": "Cuando quiere un mexicano",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:cuandoquiereunmexicano:74",
+      "type": "movie",
+      "name": "Cuando quiere un mexicano",
+      "year": 1944,
+      "section": "Jorge Negrete"
+    },
+    {
+      "id": "mx:1944:elabanicodeladywindermere:75",
+      "type": "movie",
+      "name": "El abanico de Lady Windermere",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:elasnegro:76",
+      "type": "movie",
+      "name": "El as negro",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:elcaminodelosgatos:77",
+      "type": "movie",
+      "name": "El camino de los gatos",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:elcorsarionegro:78",
+      "type": "movie",
+      "name": "El corsario negro",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:elgranmakakikus:79",
+      "type": "movie",
+      "name": "El gran Makakikus",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:elreysedivierte:80",
+      "type": "movie",
+      "name": "El rey se divierte",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:elsombrerodetrespicos:81",
+      "type": "movie",
+      "name": "El sombrero de tres picos",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:granhotel:82",
+      "type": "movie",
+      "name": "Gran Hotel",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:granhotel:82",
+      "type": "movie",
+      "name": "Gran Hotel",
+      "year": 1944,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1944:hoteldeverano:83",
+      "type": "movie",
+      "name": "Hotel de verano",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:imprudencia:84",
+      "type": "movie",
+      "name": "Imprudencia",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:lacortedefaran:85",
+      "type": "movie",
+      "name": "La corte de Faraón",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:lacortedelfaran:86",
+      "type": "movie",
+      "name": "La corte del faraón",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:laguerradelospasteles:87",
+      "type": "movie",
+      "name": "La guerra de los pasteles",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:lahijadelregimiento:88",
+      "type": "movie",
+      "name": "La hija del regimiento",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:lamonjaalfrez:89",
+      "type": "movie",
+      "name": "La monja alférez",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:lamonjaalfrez:89",
+      "type": "movie",
+      "name": "La monja alférez",
+      "year": 1944,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1944:lamujersinalma:90",
+      "type": "movie",
+      "name": "La mujer sin alma",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:lamujersinalma:90",
+      "type": "movie",
+      "name": "La mujer sin alma",
+      "year": 1944,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1944:lamujersincabeza:91",
+      "type": "movie",
+      "name": "La mujer sin cabeza",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:lamujersincabeza:91",
+      "type": "movie",
+      "name": "La mujer sin cabeza",
+      "year": 1944,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1944:lapequeamadrecita:92",
+      "type": "movie",
+      "name": "La pequeña madrecita",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:latrepadora:93",
+      "type": "movie",
+      "name": "La trepadora",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:lavidaintildepitoprez:94",
+      "type": "movie",
+      "name": "La vida inútil de Pito Pérez",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:lasabandonadas:95",
+      "type": "movie",
+      "name": "Las abandonadas",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:lasabandonadas:95",
+      "type": "movie",
+      "name": "Las abandonadas",
+      "year": 1944,
+      "section": "Dolores del Río"
+    },
+    {
+      "id": "mx:1944:loshijosdedonvenancio:96",
+      "type": "movie",
+      "name": "Los hijos de Don Venancio",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:mehabesadounhombre:97",
+      "type": "movie",
+      "name": "Me ha besado un hombre",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:miguelstrogoff:98",
+      "type": "movie",
+      "name": "Miguel Strogoff",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:mishijos:99",
+      "type": "movie",
+      "name": "Mis hijos",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:nan:100",
+      "type": "movie",
+      "name": "Naná",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:sanfranciscodeass:101",
+      "type": "movie",
+      "name": "San Francisco de Asís",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1944:torosamorygloria:102",
+      "type": "movie",
+      "name": "Toros, amor y gloria",
+      "year": 1944,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:adulterio:103",
+      "type": "movie",
+      "name": "Adulterio",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:adnevayeldiablo:104",
+      "type": "movie",
+      "name": "Adán, Eva y el diablo",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:bartolotoclaflauta:105",
+      "type": "movie",
+      "name": "Bartolo tocó la flauta",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:bugambilia:106",
+      "type": "movie",
+      "name": "Bugambilia",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:bugambilia:106",
+      "type": "movie",
+      "name": "Bugambilia",
+      "year": 1945,
+      "section": "Dolores del Río"
+    },
+    {
+      "id": "mx:1945:caminodesacramento:107",
+      "type": "movie",
+      "name": "Camino de Sacramento",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:caminosdesangre:108",
+      "type": "movie",
+      "name": "Caminos de sangre",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:canaima:109",
+      "type": "movie",
+      "name": "Canaima",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:capullitodealhel:110",
+      "type": "movie",
+      "name": "Capullito de alhelí",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:crepsculo:111",
+      "type": "movie",
+      "name": "Crepúsculo",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:elhijodesobediente:112",
+      "type": "movie",
+      "name": "El hijo desobediente",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:elhijodesobediente:112",
+      "type": "movie",
+      "name": "El hijo desobediente",
+      "year": 1945,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1945:eljageydelasruinas:113",
+      "type": "movie",
+      "name": "El jagüey de las ruinas",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:elmonjeblanco:114",
+      "type": "movie",
+      "name": "El monje blanco",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:elmuseodelcrimen:115",
+      "type": "movie",
+      "name": "El museo del crimen",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:elpreciodeunavida:116",
+      "type": "movie",
+      "name": "El precio de una vida",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:elrecuerdodeaquellanoche:117",
+      "type": "movie",
+      "name": "El recuerdo de aquella noche",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:elsecretodelasolterona:118",
+      "type": "movie",
+      "name": "El secreto de la solterona",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:escuadrn201:119",
+      "type": "movie",
+      "name": "Escuadrón 201",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:espinasdeunaflor:120",
+      "type": "movie",
+      "name": "Espinas de una flor",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:hastaqueperdijalisco:121",
+      "type": "movie",
+      "name": "Hasta que perdió Jalisco",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:labarraca:122",
+      "type": "movie",
+      "name": "La barraca",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:lacasadelazorra:123",
+      "type": "movie",
+      "name": "La casa de la zorra",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:lamujerlegtima:124",
+      "type": "movie",
+      "name": "La mujer legítima",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:lapajarera:125",
+      "type": "movie",
+      "name": "La pajarera",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:laselvadefuego:126",
+      "type": "movie",
+      "name": "La selva de fuego",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:laselvadefuego:126",
+      "type": "movie",
+      "name": "La selva de fuego",
+      "year": 1945,
+      "section": "Dolores del Río"
+    },
+    {
+      "id": "mx:1945:laseoradeenfrente:127",
+      "type": "movie",
+      "name": "La señora de enfrente",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:lascincoadvertenciasdesatans:128",
+      "type": "movie",
+      "name": "Las cinco advertencias de Satanás",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:loquevadeayerahoy:129",
+      "type": "movie",
+      "name": "Lo que va de ayer a hoy",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:losamoresdeuntorero:130",
+      "type": "movie",
+      "name": "Los amores de un torero",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:losmisteriosdelhampa:131",
+      "type": "movie",
+      "name": "Los misterios del hampa",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:marina:132",
+      "type": "movie",
+      "name": "Marina",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:mehedecomeresatuna:133",
+      "type": "movie",
+      "name": "Me he de comer esa tuna",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:mehedecomeresatuna:133",
+      "type": "movie",
+      "name": "Me he de comer esa tuna",
+      "year": 1945,
+      "section": "Jorge Negrete"
+    },
+    {
+      "id": "mx:1945:memoriasdeunavampiresa:134",
+      "type": "movie",
+      "name": "Memorias de una vampiresa",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:rosalinda:135",
+      "type": "movie",
+      "name": "Rosalinda",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:sendasdeldestino:136",
+      "type": "movie",
+      "name": "Sendas del destino",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:solteraycongemelos:137",
+      "type": "movie",
+      "name": "Soltera y con gemelos",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:todaunavida:138",
+      "type": "movie",
+      "name": "Toda una vida",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:undaconeldiablo:139",
+      "type": "movie",
+      "name": "Un día con el diablo",
+      "year": 1945,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1945:undaconeldiablo:139",
+      "type": "movie",
+      "name": "Un día con el diablo",
+      "year": 1945,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1946:amaresvivir:140",
+      "type": "movie",
+      "name": "Amar es vivir",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:aquestjuancolorado:141",
+      "type": "movie",
+      "name": "Aquí está Juan Colorado",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:bodastrgicas:142",
+      "type": "movie",
+      "name": "Bodas trágicas",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:campensincorona:143",
+      "type": "movie",
+      "name": "Campeón sin corona",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:cantaclaro:144",
+      "type": "movie",
+      "name": "Cantaclaro",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:crimenenlaalcoba:145",
+      "type": "movie",
+      "name": "Crimen en la alcoba",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:donsimndelira:146",
+      "type": "movie",
+      "name": "Don Simón de Lira",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:elahijadodelamuerte:147",
+      "type": "movie",
+      "name": "El ahijado de la muerte",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:elahijadodelamuerte:147",
+      "type": "movie",
+      "name": "El ahijado de la muerte",
+      "year": 1946,
+      "section": "Jorge Negrete"
+    },
+    {
+      "id": "mx:1946:elbarchanteneguib:148",
+      "type": "movie",
+      "name": "El barchante Neguib",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:elbarchanteneguib:148",
+      "type": "movie",
+      "name": "El barchante Neguib",
+      "year": 1946,
+      "section": "Sara García"
+    },
+    {
+      "id": "mx:1946:elhijodenadie:149",
+      "type": "movie",
+      "name": "El hijo de nadie",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:elmodernobarbaazul:150",
+      "type": "movie",
+      "name": "El moderno Barba Azul",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:elpuentedelcastigo:151",
+      "type": "movie",
+      "name": "El puente del castigo",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:elsexofuerte:152",
+      "type": "movie",
+      "name": "El sexo fuerte",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:elsuperhombre:153",
+      "type": "movie",
+      "name": "El superhombre",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:elltimoamordegoya:154",
+      "type": "movie",
+      "name": "El último amor de Goya",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:entiempodelainquisicin:155",
+      "type": "movie",
+      "name": "En tiempo de la Inquisición",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:enamorada:156",
+      "type": "movie",
+      "name": "Enamorada",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:enamorada:156",
+      "type": "movie",
+      "name": "Enamorada",
+      "year": 1946,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1946:guadalajarapues:157",
+      "type": "movie",
+      "name": "Guadalajara pues",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:haymuertosquenohacenruido:158",
+      "type": "movie",
+      "name": "Hay muertos que no hacen ruido",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:haymuertosquenohacenruido:158",
+      "type": "movie",
+      "name": "Hay muertos que no hacen ruido",
+      "year": 1946,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1946:humoenlosojos:159",
+      "type": "movie",
+      "name": "Humo en los ojos",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:laculpable:160",
+      "type": "movie",
+      "name": "La culpable",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:ladevoradora:161",
+      "type": "movie",
+      "name": "La devoradora",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:ladevoradora:161",
+      "type": "movie",
+      "name": "La devoradora",
+      "year": 1946,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1946:lahijadelpayaso:162",
+      "type": "movie",
+      "name": "La hija del payaso",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:lamujerdetodos:163",
+      "type": "movie",
+      "name": "La mujer de todos",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:lamujerdetodos:163",
+      "type": "movie",
+      "name": "La mujer de todos",
+      "year": 1946,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1946:lanocheyt:164",
+      "type": "movie",
+      "name": "La noche y tú",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:laotra:165",
+      "type": "movie",
+      "name": "La otra",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:laotra:165",
+      "type": "movie",
+      "name": "La otra",
+      "year": 1946,
+      "section": "Dolores del Río"
+    },
+    {
+      "id": "mx:1946:lareinadelaopereta:166",
+      "type": "movie",
+      "name": "La reina de la opereta",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:lascolegialas:167",
+      "type": "movie",
+      "name": "Las colegialas",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:losnietosdedonvenancio:168",
+      "type": "movie",
+      "name": "Los nietos de Don Venancio",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:lgrimasdesangre:169",
+      "type": "movie",
+      "name": "Lágrimas de sangre",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:maramagdalenapecadorademagdala:170",
+      "type": "movie",
+      "name": "María Magdalena, pecadora de Magdala",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:nobastasercharro:171",
+      "type": "movie",
+      "name": "No basta ser charro",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:ochohombresyunamujer:172",
+      "type": "movie",
+      "name": "Ocho hombres y una mujer",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:palabrasdemujer:173",
+      "type": "movie",
+      "name": "Palabras de mujer",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:paplebonard:174",
+      "type": "movie",
+      "name": "Papá Lebonard",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:pasionestormentosas:175",
+      "type": "movie",
+      "name": "Pasiones tormentosas",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:porunamor:176",
+      "type": "movie",
+      "name": "Por un amor",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:ranchodemisrecuerdos:177",
+      "type": "movie",
+      "name": "Rancho de mis recuerdos",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:rocambole:178",
+      "type": "movie",
+      "name": "Rocambole",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:seacabaronlasmujeres:179",
+      "type": "movie",
+      "name": "Se acabaron las mujeres",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:soyunprfugo:180",
+      "type": "movie",
+      "name": "Soy un prófugo",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:soyunprfugo:180",
+      "type": "movie",
+      "name": "Soy un prófugo",
+      "year": 1946,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1946:sultimaaventura:181",
+      "type": "movie",
+      "name": "Su última aventura",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:unasombraenmidestino:182",
+      "type": "movie",
+      "name": "Una sombra en mi destino",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:unavirgenmoderna:183",
+      "type": "movie",
+      "name": "Una virgen moderna",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:vrtigo:184",
+      "type": "movie",
+      "name": "Vértigo",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1946:ayqurechulaespuebla:185",
+      "type": "movie",
+      "name": "¡Ay qué rechula es Puebla!",
+      "year": 1946,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:arseniolupin:186",
+      "type": "movie",
+      "name": "Arsenio Lupin",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:belami:187",
+      "type": "movie",
+      "name": "Bel Ami",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:caritadecielo:188",
+      "type": "movie",
+      "name": "Carita de cielo",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:cincorostrosdemujer:189",
+      "type": "movie",
+      "name": "Cinco rostros de mujer",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:conlamsicapordentro:190",
+      "type": "movie",
+      "name": "Con la música por dentro",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:elamordemiboho:191",
+      "type": "movie",
+      "name": "El amor de mi bohío",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:elcocinerodemimujer:192",
+      "type": "movie",
+      "name": "El cocinero de mi mujer",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:elladrn:193",
+      "type": "movie",
+      "name": "El ladrón",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:elnioperdido:194",
+      "type": "movie",
+      "name": "El niño perdido",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:elnioperdido:194",
+      "type": "movie",
+      "name": "El niño perdido",
+      "year": 1947,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1947:elropavejero:195",
+      "type": "movie",
+      "name": "El ropavejero",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:elsecretodejuanpalomo:196",
+      "type": "movie",
+      "name": "El secreto de Juan Palomo",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:eltigredejalisco:197",
+      "type": "movie",
+      "name": "El tigre de Jalisco",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:embrujoantillano:198",
+      "type": "movie",
+      "name": "Embrujo antillano",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:encadenadaelyugo:199",
+      "type": "movie",
+      "name": "Encadenada (El yugo)",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:extraacita:200",
+      "type": "movie",
+      "name": "Extraña cita",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:extraaobsesin:201",
+      "type": "movie",
+      "name": "Extraña obsesión",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:felipefuedesgraciado:202",
+      "type": "movie",
+      "name": "Felipe fue desgraciado",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:flordeunda:203",
+      "type": "movie",
+      "name": "Flor de un día",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:lacasacolorada:204",
+      "type": "movie",
+      "name": "La casa colorada",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:ladiosaarrodillada:205",
+      "type": "movie",
+      "name": "La diosa arrodillada",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:ladiosaarrodillada:205",
+      "type": "movie",
+      "name": "La diosa arrodillada",
+      "year": 1947,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1947:lainsaciable:206",
+      "type": "movie",
+      "name": "La insaciable",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:laniademisojos:207",
+      "type": "movie",
+      "name": "La niña de mis ojos",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:losmaderosdesanjuan:208",
+      "type": "movie",
+      "name": "Los maderos de San Juan",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:lossieteniosdecija:209",
+      "type": "movie",
+      "name": "Los siete niños de Écija",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:lostresgarca:210",
+      "type": "movie",
+      "name": "Los tres García",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:lostresgarca:210",
+      "type": "movie",
+      "name": "Los tres García",
+      "year": 1947,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1947:lostresgarca:210",
+      "type": "movie",
+      "name": "Los tres García",
+      "year": 1947,
+      "section": "Sara García"
+    },
+    {
+      "id": "mx:1947:marcoantonioycleopatra:211",
+      "type": "movie",
+      "name": "Marco Antonio y Cleopatra",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:mujer:212",
+      "type": "movie",
+      "name": "Mujer",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:msicopoetayloco:213",
+      "type": "movie",
+      "name": "Músico, poeta y loco",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:msicopoetayloco:213",
+      "type": "movie",
+      "name": "Músico, poeta y loco",
+      "year": 1947,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1947:pecadora:214",
+      "type": "movie",
+      "name": "Pecadora",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:quediosmeperdone:215",
+      "type": "movie",
+      "name": "Que Dios me perdone",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:quediosmeperdone:215",
+      "type": "movie",
+      "name": "Que Dios me perdone",
+      "year": 1947,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1947:simehandematarmaana:216",
+      "type": "movie",
+      "name": "Si me han de matar mañana",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:soycharroderanchogrande:217",
+      "type": "movie",
+      "name": "Soy charro de Rancho Grande",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:soycharroderanchogrande:217",
+      "type": "movie",
+      "name": "Soy charro de Rancho Grande",
+      "year": 1947,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1947:todouncaballero:218",
+      "type": "movie",
+      "name": "Todo un caballero",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:unagitanaenjalisco:219",
+      "type": "movie",
+      "name": "Una gitana en Jalisco",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:ustedtieneojosdemujerfatal:220",
+      "type": "movie",
+      "name": "Usted tiene ojos de mujer fatal",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:vocesdeprimavera:221",
+      "type": "movie",
+      "name": "Voces de primavera",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:vuelvenlosgarca:222",
+      "type": "movie",
+      "name": "Vuelven los García",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:vuelvenlosgarca:222",
+      "type": "movie",
+      "name": "Vuelven los García",
+      "year": 1947,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1947:vuelvenlosgarca:222",
+      "type": "movie",
+      "name": "Vuelven los García",
+      "year": 1947,
+      "section": "Sara García"
+    },
+    {
+      "id": "mx:1947:yomatarositaalvrez:223",
+      "type": "movie",
+      "name": "Yo maté a Rosita Alvírez",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:avolarjoven:224",
+      "type": "movie",
+      "name": "¡A volar joven!",
+      "year": 1947,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1947:avolarjoven:224",
+      "type": "movie",
+      "name": "¡A volar joven!",
+      "year": 1947,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1948:ahvienenlosmendoza:225",
+      "type": "movie",
+      "name": "Ahí vienen los Mendoza",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:algoflotasobreelagua:226",
+      "type": "movie",
+      "name": "Algo flota sobre el agua",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:angelitosnegros:227",
+      "type": "movie",
+      "name": "Angelitos negros",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:avedepaso:228",
+      "type": "movie",
+      "name": "Ave de paso",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:bajoelcielodesonora:229",
+      "type": "movie",
+      "name": "Bajo el cielo de Sonora",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:cartasmarcadas:230",
+      "type": "movie",
+      "name": "Cartas marcadas",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:casanovaaventurero:231",
+      "type": "movie",
+      "name": "Casanova aventurero",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:cortesana:232",
+      "type": "movie",
+      "name": "Cortesana",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:depecadoenpecado:233",
+      "type": "movie",
+      "name": "De pecado en pecado",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:dosdelavidaairada:234",
+      "type": "movie",
+      "name": "Dos de la vida airada",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:dueayseora:235",
+      "type": "movie",
+      "name": "Dueña y señora",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:elcasadocasaquiere:236",
+      "type": "movie",
+      "name": "El casado casa quiere",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:elcuartomandamiento:237",
+      "type": "movie",
+      "name": "El cuarto mandamiento",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:eldeseo:238",
+      "type": "movie",
+      "name": "El deseo",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:elgallero:239",
+      "type": "movie",
+      "name": "El gallero",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:elgallogiro:240",
+      "type": "movie",
+      "name": "El gallo giro",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:elnietodelzorro:241",
+      "type": "movie",
+      "name": "El nieto del zorro",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:elreinodelosgngsters:242",
+      "type": "movie",
+      "name": "El reino de los gángsters",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:elsupersabio:243",
+      "type": "movie",
+      "name": "El supersabio",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:elsupersabio:243",
+      "type": "movie",
+      "name": "El supersabio",
+      "year": 1948,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1948:enlosaltosdejalisco:244",
+      "type": "movie",
+      "name": "En los altos de Jalisco",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:fjatequsuave:245",
+      "type": "movie",
+      "name": "Fíjate qué suave",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:fjatequsuave:245",
+      "type": "movie",
+      "name": "Fíjate qué suave",
+      "year": 1948,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1948:hanmatadoatongolele:246",
+      "type": "movie",
+      "name": "Han matado a Tongolele",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:juancharrasqueado:247",
+      "type": "movie",
+      "name": "Juan Charrasqueado",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:lostreshuastecos:248",
+      "type": "movie",
+      "name": "Los tres huastecos",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:lostreshuastecos:248",
+      "type": "movie",
+      "name": "Los tres huastecos",
+      "year": 1948,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1948:lostreshuastecos:248",
+      "type": "movie",
+      "name": "Los tres huastecos",
+      "year": 1948,
+      "section": "Sara García"
+    },
+    {
+      "id": "mx:1948:maclovia:249",
+      "type": "movie",
+      "name": "Maclovia",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:maclovia:249",
+      "type": "movie",
+      "name": "Maclovia",
+      "year": 1948,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1948:nosotroslospobres:250",
+      "type": "movie",
+      "name": "Nosotros los pobres",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:nosotroslospobres:250",
+      "type": "movie",
+      "name": "Nosotros los pobres",
+      "year": 1948,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1948:pueblerina:251",
+      "type": "movie",
+      "name": "Pueblerina",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:rosenda:252",
+      "type": "movie",
+      "name": "Rosenda",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:ustedeslosricos:253",
+      "type": "movie",
+      "name": "Ustedes los ricos",
+      "year": 1948,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1948:ustedeslosricos:253",
+      "type": "movie",
+      "name": "Ustedes los ricos",
+      "year": 1948,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1948:ustedeslosricos:253",
+      "type": "movie",
+      "name": "Ustedes los ricos",
+      "year": 1948,
+      "section": "Sara García"
+    },
+    {
+      "id": "mx:1949:calabacitastiernas:254",
+      "type": "movie",
+      "name": "Calabacitas tiernas",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1949:calabacitastiernas:254",
+      "type": "movie",
+      "name": "Calabacitas tiernas",
+      "year": 1949,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1949:elgrancampen:255",
+      "type": "movie",
+      "name": "El gran campeón",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1949:elmago:256",
+      "type": "movie",
+      "name": "El mago",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1949:elmago:256",
+      "type": "movie",
+      "name": "El mago",
+      "year": 1949,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1949:elpecadodelaura:257",
+      "type": "movie",
+      "name": "El pecado de Laura",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1949:elreydelbarrio:258",
+      "type": "movie",
+      "name": "El rey del barrio",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1949:elreydelbarrio:258",
+      "type": "movie",
+      "name": "El rey del barrio",
+      "year": 1949,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1949:elreydelbarrio:258",
+      "type": "movie",
+      "name": "El rey del barrio",
+      "year": 1949,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1949:lacasachica:259",
+      "type": "movie",
+      "name": "La casa chica",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1949:lacasachica:259",
+      "type": "movie",
+      "name": "La casa chica",
+      "year": 1949,
+      "section": "Dolores del Río"
+    },
+    {
+      "id": "mx:1949:lamalquerida:260",
+      "type": "movie",
+      "name": "La malquerida",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1949:lamalquerida:260",
+      "type": "movie",
+      "name": "La malquerida",
+      "year": 1949,
+      "section": "Dolores del Río"
+    },
+    {
+      "id": "mx:1949:lamujerqueyoperd:261",
+      "type": "movie",
+      "name": "La mujer que yo perdí",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1949:lamujerqueyoperd:261",
+      "type": "movie",
+      "name": "La mujer que yo perdí",
+      "year": 1949,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1949:laovejanegra:262",
+      "type": "movie",
+      "name": "La oveja negra",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1949:laovejanegra:262",
+      "type": "movie",
+      "name": "La oveja negra",
+      "year": 1949,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1949:nomedefiendascompadre:263",
+      "type": "movie",
+      "name": "No me defiendas compadre",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1949:nomedefiendascompadre:263",
+      "type": "movie",
+      "name": "No me defiendas compadre",
+      "year": 1949,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1949:salnmxico:264",
+      "type": "movie",
+      "name": "Salón México",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1949:unafamiliadetantas:265",
+      "type": "movie",
+      "name": "Una familia de tantas",
+      "year": 1949,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1950:elciclndelcaribe:266",
+      "type": "movie",
+      "name": "El ciclón del Caribe",
+      "year": 1950,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1950:elhombresinrostro:267",
+      "type": "movie",
+      "name": "El hombre sin rostro",
+      "year": 1950,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1950:elportero:268",
+      "type": "movie",
+      "name": "El portero",
+      "year": 1950,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1950:elportero:268",
+      "type": "movie",
+      "name": "El portero",
+      "year": 1950,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1950:elreydelbarrio:269",
+      "type": "movie",
+      "name": "El rey del barrio",
+      "year": 1950,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1950:elreydelbarrio:269",
+      "type": "movie",
+      "name": "El rey del barrio",
+      "year": 1950,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1950:lamarcadelzorrillo:270",
+      "type": "movie",
+      "name": "La marca del zorrillo",
+      "year": 1950,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1950:lamarcadelzorrillo:270",
+      "type": "movie",
+      "name": "La marca del zorrillo",
+      "year": 1950,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1950:lamarcadelzorrillo:270",
+      "type": "movie",
+      "name": "La marca del zorrillo",
+      "year": 1950,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1950:losolvidados:271",
+      "type": "movie",
+      "name": "Los olvidados",
+      "year": 1950,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1950:nodesearslamujerdetuhijo:272",
+      "type": "movie",
+      "name": "No desearás la mujer de tu hijo",
+      "year": 1950,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1950:nodesearslamujerdetuhijo:272",
+      "type": "movie",
+      "name": "No desearás la mujer de tu hijo",
+      "year": 1950,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1950:simbadelmareado:273",
+      "type": "movie",
+      "name": "Simbad el mareado",
+      "year": 1950,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1950:simbadelmareado:273",
+      "type": "movie",
+      "name": "Simbad el mareado",
+      "year": 1950,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1950:tambindedolorsecanta:274",
+      "type": "movie",
+      "name": "También de dolor se canta",
+      "year": 1950,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1950:tambindedolorsecanta:274",
+      "type": "movie",
+      "name": "También de dolor se canta",
+      "year": 1950,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1950:tambindedolorsecanta:274",
+      "type": "movie",
+      "name": "También de dolor se canta",
+      "year": 1950,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1950:undadevida:275",
+      "type": "movie",
+      "name": "Un día de vida",
+      "year": 1950,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:atmatodamquina:276",
+      "type": "movie",
+      "name": "A.T.M. ¡A toda máquina!",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:atmatodamquina:276",
+      "type": "movie",
+      "name": "A.T.M. ¡A toda máquina!",
+      "year": 1951,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1951:chuchoelremendado:277",
+      "type": "movie",
+      "name": "Chucho el remendado",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:chuchoelremendado:277",
+      "type": "movie",
+      "name": "Chucho el remendado",
+      "year": 1951,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1951:elgendarmedelaesquina:278",
+      "type": "movie",
+      "name": "El gendarme de la esquina",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:elrevoltoso:279",
+      "type": "movie",
+      "name": "El revoltoso",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:elrevoltoso:279",
+      "type": "movie",
+      "name": "El revoltoso",
+      "year": 1951,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1951:elrevoltoso:279",
+      "type": "movie",
+      "name": "El revoltoso",
+      "year": 1951,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1951:elsietemachos:280",
+      "type": "movie",
+      "name": "El siete machos",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:elsietemachos:280",
+      "type": "movie",
+      "name": "El siete machos",
+      "year": 1951,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1951:elsuavecito:281",
+      "type": "movie",
+      "name": "El suavecito",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:enlapalmadetumano:282",
+      "type": "movie",
+      "name": "En la palma de tu mano",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:muchachasdeuniforme:283",
+      "type": "movie",
+      "name": "Muchachas de uniforme",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:sensualidad:284",
+      "type": "movie",
+      "name": "Sensualidad",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:trotacalles:285",
+      "type": "movie",
+      "name": "Trotacalles",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:vctimasdelpecado:286",
+      "type": "movie",
+      "name": "Víctimas del pecado",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:qutehadadoesamujer:287",
+      "type": "movie",
+      "name": "¿Qué te ha dado esa mujer?",
+      "year": 1951,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1951:qutehadadoesamujer:287",
+      "type": "movie",
+      "name": "¿Qué te ha dado esa mujer?",
+      "year": 1951,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1952:ahvienemartncorona:288",
+      "type": "movie",
+      "name": "Ahí viene Martín Corona",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:ahvienemartncorona:288",
+      "type": "movie",
+      "name": "Ahí viene Martín Corona",
+      "year": 1952,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1952:elbeisbolistafenmeno:289",
+      "type": "movie",
+      "name": "El beisbolista fenómeno",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:elbeisbolistafenmeno:289",
+      "type": "movie",
+      "name": "El beisbolista fenómeno",
+      "year": 1952,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1952:elbellodurmiente:290",
+      "type": "movie",
+      "name": "El bello durmiente",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:elbellodurmiente:290",
+      "type": "movie",
+      "name": "El bello durmiente",
+      "year": 1952,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1952:elbellodurmiente:290",
+      "type": "movie",
+      "name": "El bello durmiente",
+      "year": 1952,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1952:elbomberoatmico:291",
+      "type": "movie",
+      "name": "El bombero atómico",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:elbomberoatmico:291",
+      "type": "movie",
+      "name": "El bombero atómico",
+      "year": 1952,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1952:elceniciento:292",
+      "type": "movie",
+      "name": "El ceniciento",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:elceniciento:292",
+      "type": "movie",
+      "name": "El ceniciento",
+      "year": 1952,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1952:elenamorado:293",
+      "type": "movie",
+      "name": "El enamorado",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:elenamorado:293",
+      "type": "movie",
+      "name": "El enamorado",
+      "year": 1952,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1952:elluchadorfenmeno:294",
+      "type": "movie",
+      "name": "El luchador fenómeno",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:elluchadorfenmeno:294",
+      "type": "movie",
+      "name": "El luchador fenómeno",
+      "year": 1952,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1952:elmrtirdelcalvario:295",
+      "type": "movie",
+      "name": "El mártir del Calvario",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:elrebozodesoledad:296",
+      "type": "movie",
+      "name": "El rebozo de Soledad",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:lanocheavanza:297",
+      "type": "movie",
+      "name": "La noche avanza",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:laslocurasdetintan:298",
+      "type": "movie",
+      "name": "Las locuras de Tin Tan",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:laslocurasdetintan:298",
+      "type": "movie",
+      "name": "Las locuras de Tin Tan",
+      "year": 1952,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1952:lostresalegrescompadres:299",
+      "type": "movie",
+      "name": "Los tres alegres compadres",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:rostrosolvidados:300",
+      "type": "movie",
+      "name": "Rostros olvidados",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:siyofueradiputado:301",
+      "type": "movie",
+      "name": "Si yo fuera diputado",
+      "year": 1952,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1952:siyofueradiputado:301",
+      "type": "movie",
+      "name": "Si yo fuera diputado",
+      "year": 1952,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1953:abismosdepasin:302",
+      "type": "movie",
+      "name": "Abismos de pasión",
+      "year": 1953,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1953:dostiposdecuidado:303",
+      "type": "movie",
+      "name": "Dos tipos de cuidado",
+      "year": 1953,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1953:dostiposdecuidado:303",
+      "type": "movie",
+      "name": "Dos tipos de cuidado",
+      "year": 1953,
+      "section": "Jorge Negrete"
+    },
+    {
+      "id": "mx:1953:elbruto:304",
+      "type": "movie",
+      "name": "El bruto",
+      "year": 1953,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1953:elcoraznylaespada:305",
+      "type": "movie",
+      "name": "El corazón y la espada",
+      "year": 1953,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1953:elmariachidesconocido:306",
+      "type": "movie",
+      "name": "El mariachi desconocido",
+      "year": 1953,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1953:elmariachidesconocido:306",
+      "type": "movie",
+      "name": "El mariachi desconocido",
+      "year": 1953,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1953:elmariachidesconocido:306",
+      "type": "movie",
+      "name": "El mariachi desconocido",
+      "year": 1953,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1953:elnioylaniebla:307",
+      "type": "movie",
+      "name": "El niño y la niebla",
+      "year": 1953,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1953:elseorfotgrafo:308",
+      "type": "movie",
+      "name": "El señor fotógrafo",
+      "year": 1953,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1953:elseorfotgrafo:308",
+      "type": "movie",
+      "name": "El señor fotógrafo",
+      "year": 1953,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1953:elvagabundo:309",
+      "type": "movie",
+      "name": "El vagabundo",
+      "year": 1953,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1953:elvagabundo:309",
+      "type": "movie",
+      "name": "El vagabundo",
+      "year": 1953,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1953:elvagabundo:309",
+      "type": "movie",
+      "name": "El vagabundo",
+      "year": 1953,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1954:caballeroalamedida:310",
+      "type": "movie",
+      "name": "Caballero a la medida",
+      "year": 1954,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1954:caballeroalamedida:310",
+      "type": "movie",
+      "name": "Caballero a la medida",
+      "year": 1954,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1954:cuidadoconelamor:311",
+      "type": "movie",
+      "name": "Cuidado con el amor",
+      "year": 1954,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1954:elroylamuerte:312",
+      "type": "movie",
+      "name": "El río y la muerte",
+      "year": 1954,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1954:elvizcondedemontecristo:313",
+      "type": "movie",
+      "name": "El vizconde de Montecristo",
+      "year": 1954,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1954:elvizcondedemontecristo:313",
+      "type": "movie",
+      "name": "El vizconde de Montecristo",
+      "year": 1954,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1954:lailusinviajaentranva:314",
+      "type": "movie",
+      "name": "La ilusión viaja en tranvía",
+      "year": 1954,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1954:robinsoncrusoe:315",
+      "type": "movie",
+      "name": "Robinson Crusoe",
+      "year": 1954,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1955:abajoelteln:316",
+      "type": "movie",
+      "name": "Abajo el telón",
+      "year": 1955,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1955:abajoelteln:316",
+      "type": "movie",
+      "name": "Abajo el telón",
+      "year": 1955,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1955:elcasodelamujerasesinadita:317",
+      "type": "movie",
+      "name": "El caso de la mujer asesinadita",
+      "year": 1955,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1955:ensayodeuncrimen:318",
+      "type": "movie",
+      "name": "Ensayo de un crimen",
+      "year": 1955,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1955:espaldasmojadas:319",
+      "type": "movie",
+      "name": "Espaldas mojadas",
+      "year": 1955,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1955:laescondida:320",
+      "type": "movie",
+      "name": "La escondida",
+      "year": 1955,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1955:laescondida:320",
+      "type": "movie",
+      "name": "La escondida",
+      "year": 1955,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1955:lavidanovalenada:321",
+      "type": "movie",
+      "name": "La vida no vale nada",
+      "year": 1955,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1955:lavidanovalenada:321",
+      "type": "movie",
+      "name": "La vida no vale nada",
+      "year": 1955,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1955:loquelepasasansn:322",
+      "type": "movie",
+      "name": "Lo que le pasó a Sansón",
+      "year": 1955,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1955:loquelepasasansn:322",
+      "type": "movie",
+      "name": "Lo que le pasó a Sansón",
+      "year": 1955,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1956:elsultndescalzo:323",
+      "type": "movie",
+      "name": "El sultán descalzo",
+      "year": 1956,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1956:elsultndescalzo:323",
+      "type": "movie",
+      "name": "El sultán descalzo",
+      "year": 1956,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1956:elsultndescalzo:323",
+      "type": "movie",
+      "name": "El sultán descalzo",
+      "year": 1956,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1956:elvividor:324",
+      "type": "movie",
+      "name": "El vividor",
+      "year": 1956,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1956:elvividor:324",
+      "type": "movie",
+      "name": "El vividor",
+      "year": 1956,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1956:elvividor:324",
+      "type": "movie",
+      "name": "El vividor",
+      "year": 1956,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1956:lavueltaalmundoen80das:325",
+      "type": "movie",
+      "name": "La vuelta al mundo en 80 días",
+      "year": 1956,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1956:lavueltaalmundoen80das:325",
+      "type": "movie",
+      "name": "La vuelta al mundo en 80 días",
+      "year": 1956,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1956:msicadesiempre:326",
+      "type": "movie",
+      "name": "Música de siempre",
+      "year": 1956,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1956:torero:327",
+      "type": "movie",
+      "name": "Torero",
+      "year": 1956,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1957:elboleroderaquel:328",
+      "type": "movie",
+      "name": "El bolero de Raquel",
+      "year": 1957,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1957:elboleroderaquel:328",
+      "type": "movie",
+      "name": "El bolero de Raquel",
+      "year": 1957,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1957:elboleroderaquel:328",
+      "type": "movie",
+      "name": "El bolero de Raquel",
+      "year": 1957,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1957:elqueconniosseacuesta:329",
+      "type": "movie",
+      "name": "El que con niños se acuesta",
+      "year": 1957,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1957:elqueconniosseacuesta:329",
+      "type": "movie",
+      "name": "El que con niños se acuesta",
+      "year": 1957,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1957:elqueconniosseacuesta:329",
+      "type": "movie",
+      "name": "El que con niños se acuesta",
+      "year": 1957,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1957:elvampiro:330",
+      "type": "movie",
+      "name": "El vampiro",
+      "year": 1957,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1957:lostresmosqueterosymedio:331",
+      "type": "movie",
+      "name": "Los tres mosqueteros y medio",
+      "year": 1957,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1957:lostresmosqueterosymedio:331",
+      "type": "movie",
+      "name": "Los tres mosqueteros y medio",
+      "year": 1957,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1957:tizoc:332",
+      "type": "movie",
+      "name": "Tizoc",
+      "year": 1957,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1957:tizoc:332",
+      "type": "movie",
+      "name": "Tizoc",
+      "year": 1957,
+      "section": "Pedro Infante"
+    },
+    {
+      "id": "mx:1957:tizoc:332",
+      "type": "movie",
+      "name": "Tizoc",
+      "year": 1957,
+      "section": "María Félix"
+    },
+    {
+      "id": "mx:1958:amaatuprjimo:333",
+      "type": "movie",
+      "name": "Ama a tu prójimo",
+      "year": 1958,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1958:amaatuprjimo:333",
+      "type": "movie",
+      "name": "Ama a tu prójimo",
+      "year": 1958,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1958:elataddelvampiro:334",
+      "type": "movie",
+      "name": "El ataúd del vampiro",
+      "year": 1958,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1958:loslegionarios:335",
+      "type": "movie",
+      "name": "Los legionarios",
+      "year": 1958,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1958:loslegionarios:335",
+      "type": "movie",
+      "name": "Los legionarios",
+      "year": 1958,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1958:refifentrelasmujeres:336",
+      "type": "movie",
+      "name": "Refifí entre las mujeres",
+      "year": 1958,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1958:refifentrelasmujeres:336",
+      "type": "movie",
+      "name": "Refifí entre las mujeres",
+      "year": 1958,
+      "section": "Comedia mexicana / Tin Tan y otros"
+    },
+    {
+      "id": "mx:1958:refifentrelasmujeres:336",
+      "type": "movie",
+      "name": "Refifí entre las mujeres",
+      "year": 1958,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1959:elesqueletodelaseoramorales:337",
+      "type": "movie",
+      "name": "El esqueleto de la señora Morales",
+      "year": 1959,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1959:nazarn:338",
+      "type": "movie",
+      "name": "Nazarín",
+      "year": 1959,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1959:subeybaja:339",
+      "type": "movie",
+      "name": "Sube y baja",
+      "year": 1959,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1959:subeybaja:339",
+      "type": "movie",
+      "name": "Sube y baja",
+      "year": 1959,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1959:tresleccionesdeamor:340",
+      "type": "movie",
+      "name": "Tres lecciones de amor",
+      "year": 1959,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1959:tresleccionesdeamor:340",
+      "type": "movie",
+      "name": "Tres lecciones de amor",
+      "year": 1959,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1960:doscriadosmalcriados:341",
+      "type": "movie",
+      "name": "Dos criados malcriados",
+      "year": 1960,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1960:doscriadosmalcriados:341",
+      "type": "movie",
+      "name": "Dos criados malcriados",
+      "year": 1960,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1960:doscriadosmalcriados:341",
+      "type": "movie",
+      "name": "Dos criados malcriados",
+      "year": 1960,
+      "section": "Viruta y Capulina"
+    },
+    {
+      "id": "mx:1960:doslocosenescena:342",
+      "type": "movie",
+      "name": "Dos locos en escena",
+      "year": 1960,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1960:doslocosenescena:342",
+      "type": "movie",
+      "name": "Dos locos en escena",
+      "year": 1960,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1960:elvioletero:343",
+      "type": "movie",
+      "name": "El violetero",
+      "year": 1960,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1960:elvioletero:343",
+      "type": "movie",
+      "name": "El violetero",
+      "year": 1960,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1960:lacasadelterror:344",
+      "type": "movie",
+      "name": "La casa del terror",
+      "year": 1960,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1960:lacasadelterror:344",
+      "type": "movie",
+      "name": "La casa del terror",
+      "year": 1960,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1960:lasombradelcaudillo:345",
+      "type": "movie",
+      "name": "La sombra del caudillo",
+      "year": 1960,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1960:losdesenfrenados:346",
+      "type": "movie",
+      "name": "Los desenfrenados",
+      "year": 1960,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1960:losdesenfrenados:346",
+      "type": "movie",
+      "name": "Los desenfrenados",
+      "year": 1960,
+      "section": "Viruta y Capulina"
+    },
+    {
+      "id": "mx:1960:lostigresdeldesierto:347",
+      "type": "movie",
+      "name": "Los tigres del desierto",
+      "year": 1960,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1960:lostigresdeldesierto:347",
+      "type": "movie",
+      "name": "Los tigres del desierto",
+      "year": 1960,
+      "section": "Viruta y Capulina"
+    },
+    {
+      "id": "mx:1960:macario:348",
+      "type": "movie",
+      "name": "Macario",
+      "year": 1960,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1960:pepe:349",
+      "type": "movie",
+      "name": "Pepe",
+      "year": 1960,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1960:pepe:349",
+      "type": "movie",
+      "name": "Pepe",
+      "year": 1960,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1960:tintanylasmodelos:350",
+      "type": "movie",
+      "name": "Tin Tan y las modelos",
+      "year": 1960,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1960:tintanylasmodelos:350",
+      "type": "movie",
+      "name": "Tin Tan y las modelos",
+      "year": 1960,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1961:elanalfabeto:351",
+      "type": "movie",
+      "name": "El analfabeto",
+      "year": 1961,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1961:elanalfabeto:351",
+      "type": "movie",
+      "name": "El analfabeto",
+      "year": 1961,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1961:elanalfabeto:351",
+      "type": "movie",
+      "name": "El analfabeto",
+      "year": 1961,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1961:elanalfabeto:351",
+      "type": "movie",
+      "name": "El analfabeto",
+      "year": 1961,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1961:elnioyelmuro:352",
+      "type": "movie",
+      "name": "El niño y el muro",
+      "year": 1961,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1961:elnioyelmuro:352",
+      "type": "movie",
+      "name": "El niño y el muro",
+      "year": 1961,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1961:elpadrediablo:353",
+      "type": "movie",
+      "name": "El padre Diablo",
+      "year": 1961,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1961:elpadrediablo:353",
+      "type": "movie",
+      "name": "El padre Diablo",
+      "year": 1961,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1961:eltejedordemilagros:354",
+      "type": "movie",
+      "name": "El tejedor de milagros",
+      "year": 1961,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1961:eltejedordemilagros:354",
+      "type": "movie",
+      "name": "El tejedor de milagros",
+      "year": 1961,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1961:gabinobarrera:355",
+      "type": "movie",
+      "name": "Gabino Barrera",
+      "year": 1961,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1961:gabinobarrera:355",
+      "type": "movie",
+      "name": "Gabino Barrera",
+      "year": 1961,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1961:loshermanosdelhierro:356",
+      "type": "movie",
+      "name": "Los hermanos del Hierro",
+      "year": 1961,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1961:loshermanosdelhierro:356",
+      "type": "movie",
+      "name": "Los hermanos del Hierro",
+      "year": 1961,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1961:nimastrujano:357",
+      "type": "movie",
+      "name": "Ánimas Trujano",
+      "year": 1961,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1961:nimastrujano:357",
+      "type": "movie",
+      "name": "Ánimas Trujano",
+      "year": 1961,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1962:cascabelito:358",
+      "type": "movie",
+      "name": "Cascabelito",
+      "year": 1962,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1962:cascabelito:358",
+      "type": "movie",
+      "name": "Cascabelito",
+      "year": 1962,
+      "section": "Viruta y Capulina"
+    },
+    {
+      "id": "mx:1962:elespejodelabruja:359",
+      "type": "movie",
+      "name": "El espejo de la bruja",
+      "year": 1962,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1962:elespejodelabruja:359",
+      "type": "movie",
+      "name": "El espejo de la bruja",
+      "year": 1962,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1962:elextra:360",
+      "type": "movie",
+      "name": "El extra",
+      "year": 1962,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1962:elextra:360",
+      "type": "movie",
+      "name": "El extra",
+      "year": 1962,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1962:elextra:360",
+      "type": "movie",
+      "name": "El extra",
+      "year": 1962,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1962:elseordoctor:361",
+      "type": "movie",
+      "name": "El señor doctor",
+      "year": 1962,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1962:elseordoctor:361",
+      "type": "movie",
+      "name": "El señor doctor",
+      "year": 1962,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1962:elngelexterminador:362",
+      "type": "movie",
+      "name": "El ángel exterminador",
+      "year": 1962,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1962:elngelexterminador:362",
+      "type": "movie",
+      "name": "El ángel exterminador",
+      "year": 1962,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1962:santocontraelcerebrodelmal:363",
+      "type": "movie",
+      "name": "Santo contra el cerebro del mal",
+      "year": 1962,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1962:santocontraelcerebrodelmal:363",
+      "type": "movie",
+      "name": "Santo contra el cerebro del mal",
+      "year": 1962,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1962:santocontralasmujeresvampiro:364",
+      "type": "movie",
+      "name": "Santo contra las mujeres vampiro",
+      "year": 1962,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1962:santocontralasmujeresvampiro:364",
+      "type": "movie",
+      "name": "Santo contra las mujeres vampiro",
+      "year": 1962,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1962:seloschuplabruja:365",
+      "type": "movie",
+      "name": "Se los chupó la bruja",
+      "year": 1962,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1962:seloschuplabruja:365",
+      "type": "movie",
+      "name": "Se los chupó la bruja",
+      "year": 1962,
+      "section": "Viruta y Capulina"
+    },
+    {
+      "id": "mx:1962:tlayucan:366",
+      "type": "movie",
+      "name": "Tlayucan",
+      "year": 1962,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1962:tlayucan:366",
+      "type": "movie",
+      "name": "Tlayucan",
+      "year": 1962,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1962:enpeligrodemuerte:367",
+      "type": "movie",
+      "name": "¡En peligro de muerte!",
+      "year": 1962,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1962:enpeligrodemuerte:367",
+      "type": "movie",
+      "name": "¡En peligro de muerte!",
+      "year": 1962,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1963:elgallodeoro:368",
+      "type": "movie",
+      "name": "El gallo de oro",
+      "year": 1963,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1963:elgallodeoro:368",
+      "type": "movie",
+      "name": "El gallo de oro",
+      "year": 1963,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1963:elhombredepapel:369",
+      "type": "movie",
+      "name": "El hombre de papel",
+      "year": 1963,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1963:elhombredepapel:369",
+      "type": "movie",
+      "name": "El hombre de papel",
+      "year": 1963,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1963:elreydeltomate:370",
+      "type": "movie",
+      "name": "El rey del tomate",
+      "year": 1963,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1963:elreydeltomate:370",
+      "type": "movie",
+      "name": "El rey del tomate",
+      "year": 1963,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1963:enestepueblonohayladrones:371",
+      "type": "movie",
+      "name": "En este pueblo no hay ladrones",
+      "year": 1963,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1963:enestepueblonohayladrones:371",
+      "type": "movie",
+      "name": "En este pueblo no hay ladrones",
+      "year": 1963,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1963:entregainmediata:372",
+      "type": "movie",
+      "name": "Entrega inmediata",
+      "year": 1963,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1963:entregainmediata:372",
+      "type": "movie",
+      "name": "Entrega inmediata",
+      "year": 1963,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1963:losderechosdeloshijos:373",
+      "type": "movie",
+      "name": "Los derechos de los hijos",
+      "year": 1963,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1963:losderechosdeloshijos:373",
+      "type": "movie",
+      "name": "Los derechos de los hijos",
+      "year": 1963,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1963:losderechosdeloshijos:373",
+      "type": "movie",
+      "name": "Los derechos de los hijos",
+      "year": 1963,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1963:losinvisibles:374",
+      "type": "movie",
+      "name": "Los invisibles",
+      "year": 1963,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1963:losinvisibles:374",
+      "type": "movie",
+      "name": "Los invisibles",
+      "year": 1963,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1963:losinvisibles:374",
+      "type": "movie",
+      "name": "Los invisibles",
+      "year": 1963,
+      "section": "Viruta y Capulina"
+    },
+    {
+      "id": "mx:1963:mxicodemisrecuerdos:375",
+      "type": "movie",
+      "name": "México de mis recuerdos",
+      "year": 1963,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1963:mxicodemisrecuerdos:375",
+      "type": "movie",
+      "name": "México de mis recuerdos",
+      "year": 1963,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1963:tiburoneros:376",
+      "type": "movie",
+      "name": "Tiburoneros",
+      "year": 1963,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1963:tiburoneros:376",
+      "type": "movie",
+      "name": "Tiburoneros",
+      "year": 1963,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1964:elcharrodelascalaveras:377",
+      "type": "movie",
+      "name": "El charro de las calaveras",
+      "year": 1964,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1964:elcharrodelascalaveras:377",
+      "type": "movie",
+      "name": "El charro de las calaveras",
+      "year": 1964,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1964:elpadrecito:378",
+      "type": "movie",
+      "name": "El padrecito",
+      "year": 1964,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1964:elpadrecito:378",
+      "type": "movie",
+      "name": "El padrecito",
+      "year": 1964,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1964:elpadrecito:378",
+      "type": "movie",
+      "name": "El padrecito",
+      "year": 1964,
+      "section": "Cine de Oro Mexicano (1936-1960)"
+    },
+    {
+      "id": "mx:1964:elrevlversangriento:379",
+      "type": "movie",
+      "name": "El revólver sangriento",
+      "year": 1964,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1964:elrevlversangriento:379",
+      "type": "movie",
+      "name": "El revólver sangriento",
+      "year": 1964,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1964:elrevlversangriento:379",
+      "type": "movie",
+      "name": "El revólver sangriento",
+      "year": 1964,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1964:labandida:380",
+      "type": "movie",
+      "name": "La bandida",
+      "year": 1964,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1964:labandida:380",
+      "type": "movie",
+      "name": "La bandida",
+      "year": 1964,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1964:losastronautas:381",
+      "type": "movie",
+      "name": "Los astronautas",
+      "year": 1964,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1964:losastronautas:381",
+      "type": "movie",
+      "name": "Los astronautas",
+      "year": 1964,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1964:losastronautas:381",
+      "type": "movie",
+      "name": "Los astronautas",
+      "year": 1964,
+      "section": "Viruta y Capulina"
+    },
+    {
+      "id": "mx:1964:losfenmenosdelftbol:382",
+      "type": "movie",
+      "name": "Los fenómenos del fútbol",
+      "year": 1964,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1964:losfenmenosdelftbol:382",
+      "type": "movie",
+      "name": "Los fenómenos del fútbol",
+      "year": 1964,
+      "section": "Viruta y Capulina"
+    },
+    {
+      "id": "mx:1964:vientonegro:383",
+      "type": "movie",
+      "name": "Viento negro",
+      "year": 1964,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1964:vientonegro:383",
+      "type": "movie",
+      "name": "Viento negro",
+      "year": 1964,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1965:elescapulario:384",
+      "type": "movie",
+      "name": "El escapulario",
+      "year": 1965,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1965:elescapulario:384",
+      "type": "movie",
+      "name": "El escapulario",
+      "year": 1965,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1965:elgngster:385",
+      "type": "movie",
+      "name": "El gángster",
+      "year": 1965,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1965:elgngster:385",
+      "type": "movie",
+      "name": "El gángster",
+      "year": 1965,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1965:elseordoctor:386",
+      "type": "movie",
+      "name": "El señor doctor",
+      "year": 1965,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1965:elseordoctor:386",
+      "type": "movie",
+      "name": "El señor doctor",
+      "year": 1965,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1965:laguerradelospasteles:387",
+      "type": "movie",
+      "name": "La guerra de los pasteles",
+      "year": 1965,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1965:laguerradelospasteles:387",
+      "type": "movie",
+      "name": "La guerra de los pasteles",
+      "year": 1965,
+      "section": "Viruta y Capulina"
+    },
+    {
+      "id": "mx:1965:loscaifanes:388",
+      "type": "movie",
+      "name": "Los caifanes",
+      "year": 1965,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1965:loscaifanes:388",
+      "type": "movie",
+      "name": "Los caifanes",
+      "year": 1965,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1965:losreyesdelvolante:389",
+      "type": "movie",
+      "name": "Los reyes del volante",
+      "year": 1965,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1965:losreyesdelvolante:389",
+      "type": "movie",
+      "name": "Los reyes del volante",
+      "year": 1965,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1965:tiempodemorir:390",
+      "type": "movie",
+      "name": "Tiempo de morir",
+      "year": 1965,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1965:tiempodemorir:390",
+      "type": "movie",
+      "name": "Tiempo de morir",
+      "year": 1965,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1966:bluedemoncontralasinvasoras:391",
+      "type": "movie",
+      "name": "Blue Demon contra las invasoras",
+      "year": 1966,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1966:bluedemoncontralasinvasoras:391",
+      "type": "movie",
+      "name": "Blue Demon contra las invasoras",
+      "year": 1966,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1966:elplanetadelasmujeresinvasoras:392",
+      "type": "movie",
+      "name": "El planeta de las mujeres invasoras",
+      "year": 1966,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1966:elplanetadelasmujeresinvasoras:392",
+      "type": "movie",
+      "name": "El planeta de las mujeres invasoras",
+      "year": 1966,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1966:lasoldadera:393",
+      "type": "movie",
+      "name": "La soldadera",
+      "year": 1966,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1966:lasoldadera:393",
+      "type": "movie",
+      "name": "La soldadera",
+      "year": 1966,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1966:pedropramo:394",
+      "type": "movie",
+      "name": "Pedro Páramo",
+      "year": 1966,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1966:pedropramo:394",
+      "type": "movie",
+      "name": "Pedro Páramo",
+      "year": 1966,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1967:alaznyenamorado:395",
+      "type": "movie",
+      "name": "Alazán y enamorado",
+      "year": 1967,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1967:alaznyenamorado:395",
+      "type": "movie",
+      "name": "Alazán y enamorado",
+      "year": 1967,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1967:chanoc:396",
+      "type": "movie",
+      "name": "Chanoc",
+      "year": 1967,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1967:chanoc:396",
+      "type": "movie",
+      "name": "Chanoc",
+      "year": 1967,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1967:elmundolocodelosjvenes:397",
+      "type": "movie",
+      "name": "El mundo loco de los jóvenes",
+      "year": 1967,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1967:elmundolocodelosjvenes:397",
+      "type": "movie",
+      "name": "El mundo loco de los jóvenes",
+      "year": 1967,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1967:elngelyyo:398",
+      "type": "movie",
+      "name": "El ángel y yo",
+      "year": 1967,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1967:elngelyyo:398",
+      "type": "movie",
+      "name": "El ángel y yo",
+      "year": 1967,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1967:lamansindelalocura:399",
+      "type": "movie",
+      "name": "La mansión de la locura",
+      "year": 1967,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1967:lamansindelalocura:399",
+      "type": "movie",
+      "name": "La mansión de la locura",
+      "year": 1967,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1967:suexcelencia:400",
+      "type": "movie",
+      "name": "Su Excelencia",
+      "year": 1967,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1967:suexcelencia:400",
+      "type": "movie",
+      "name": "Su Excelencia",
+      "year": 1967,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1967:unparderobachicos:401",
+      "type": "movie",
+      "name": "Un par de roba chicos",
+      "year": 1967,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1967:unparderobachicos:401",
+      "type": "movie",
+      "name": "Un par de roba chicos",
+      "year": 1967,
+      "section": "Viruta y Capulina"
+    },
+    {
+      "id": "mx:1968:almagrande:402",
+      "type": "movie",
+      "name": "Alma grande",
+      "year": 1968,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1968:almagrande:402",
+      "type": "movie",
+      "name": "Alma grande",
+      "year": 1968,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1968:elbastardo:403",
+      "type": "movie",
+      "name": "El bastardo",
+      "year": 1968,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1968:elbastardo:403",
+      "type": "movie",
+      "name": "El bastardo",
+      "year": 1968,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1968:elbastardo:403",
+      "type": "movie",
+      "name": "El bastardo",
+      "year": 1968,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1968:elcuerpazodeldelito:404",
+      "type": "movie",
+      "name": "El cuerpazo del delito",
+      "year": 1968,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1968:elcuerpazodeldelito:404",
+      "type": "movie",
+      "name": "El cuerpazo del delito",
+      "year": 1968,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1968:ellibrodepiedra:405",
+      "type": "movie",
+      "name": "El libro de piedra",
+      "year": 1968,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1968:ellibrodepiedra:405",
+      "type": "movie",
+      "name": "El libro de piedra",
+      "year": 1968,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1968:elzngano:406",
+      "type": "movie",
+      "name": "El zángano",
+      "year": 1968,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1968:elzngano:406",
+      "type": "movie",
+      "name": "El zángano",
+      "year": 1968,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1968:hastaelvientotienemiedo:407",
+      "type": "movie",
+      "name": "Hasta el viento tiene miedo",
+      "year": 1968,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1968:hastaelvientotienemiedo:407",
+      "type": "movie",
+      "name": "Hasta el viento tiene miedo",
+      "year": 1968,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1968:operacincarambola:408",
+      "type": "movie",
+      "name": "Operación carambola",
+      "year": 1968,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1968:operacincarambola:408",
+      "type": "movie",
+      "name": "Operación carambola",
+      "year": 1968,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1968:patsymiamor:409",
+      "type": "movie",
+      "name": "Patsy, mi amor",
+      "year": 1968,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1968:patsymiamor:409",
+      "type": "movie",
+      "name": "Patsy, mi amor",
+      "year": 1968,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1968:pormispistolas:410",
+      "type": "movie",
+      "name": "Por mis pistolas",
+      "year": 1968,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1968:pormispistolas:410",
+      "type": "movie",
+      "name": "Por mis pistolas",
+      "year": 1968,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1969:elcrepsculodeundios:411",
+      "type": "movie",
+      "name": "El crepúsculo de un dios",
+      "year": 1969,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1969:elcrepsculodeundios:411",
+      "type": "movie",
+      "name": "El crepúsculo de un dios",
+      "year": 1969,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1969:laprincesahippie:412",
+      "type": "movie",
+      "name": "La princesa hippie",
+      "year": 1969,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1969:laprincesahippie:412",
+      "type": "movie",
+      "name": "La princesa hippie",
+      "year": 1969,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1969:lasvisitacionesdeldiablo:413",
+      "type": "movie",
+      "name": "Las visitaciones del diablo",
+      "year": 1969,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1969:lasvisitacionesdeldiablo:413",
+      "type": "movie",
+      "name": "Las visitaciones del diablo",
+      "year": 1969,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1969:losrecuerdosdelporvenir:414",
+      "type": "movie",
+      "name": "Los recuerdos del porvenir",
+      "year": 1969,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1969:losrecuerdosdelporvenir:414",
+      "type": "movie",
+      "name": "Los recuerdos del porvenir",
+      "year": 1969,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1969:santoeneltesorodedrcula:415",
+      "type": "movie",
+      "name": "Santo en el tesoro de Drácula",
+      "year": 1969,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1969:santoeneltesorodedrcula:415",
+      "type": "movie",
+      "name": "Santo en el tesoro de Drácula",
+      "year": 1969,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1969:unquijotesinmancha:416",
+      "type": "movie",
+      "name": "Un Quijote sin mancha",
+      "year": 1969,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1969:unquijotesinmancha:416",
+      "type": "movie",
+      "name": "Un Quijote sin mancha",
+      "year": 1969,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1970:elamordemaraisabel:417",
+      "type": "movie",
+      "name": "El amor de María Isabel",
+      "year": 1970,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1970:elamordemaraisabel:417",
+      "type": "movie",
+      "name": "El amor de María Isabel",
+      "year": 1970,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1970:eltopo:418",
+      "type": "movie",
+      "name": "El Topo",
+      "year": 1970,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1970:eltopo:418",
+      "type": "movie",
+      "name": "El Topo",
+      "year": 1970,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1970:lamontaasagrada:419",
+      "type": "movie",
+      "name": "La montaña sagrada",
+      "year": 1970,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1970:lamontaasagrada:419",
+      "type": "movie",
+      "name": "La montaña sagrada",
+      "year": 1970,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1970:lastresmagnficas:420",
+      "type": "movie",
+      "name": "Las tres magníficas",
+      "year": 1970,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1970:lastresmagnficas:420",
+      "type": "movie",
+      "name": "Las tres magníficas",
+      "year": 1970,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1970:mecnicanacional:421",
+      "type": "movie",
+      "name": "Mecánica nacional",
+      "year": 1970,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1970:mecnicanacional:421",
+      "type": "movie",
+      "name": "Mecánica nacional",
+      "year": 1970,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1970:santoybluedemoncontradrculayelhombrelobo:422",
+      "type": "movie",
+      "name": "Santo y Blue Demon contra Drácula y el hombre lobo",
+      "year": 1970,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1970:santoybluedemoncontradrculayelhombrelobo:422",
+      "type": "movie",
+      "name": "Santo y Blue Demon contra Drácula y el hombre lobo",
+      "year": 1970,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1971:elcastillodelapureza:423",
+      "type": "movie",
+      "name": "El castillo de la pureza",
+      "year": 1971,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1971:elcastillodelapureza:423",
+      "type": "movie",
+      "name": "El castillo de la pureza",
+      "year": 1971,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1971:eljardndelataisabel:424",
+      "type": "movie",
+      "name": "El jardín de la tía Isabel",
+      "year": 1971,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1971:eljardndelataisabel:424",
+      "type": "movie",
+      "name": "El jardín de la tía Isabel",
+      "year": 1971,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1971:elprofe:425",
+      "type": "movie",
+      "name": "El profe",
+      "year": 1971,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1971:elprofe:425",
+      "type": "movie",
+      "name": "El profe",
+      "year": 1971,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1971:laverdaderavocacindemagdalena:426",
+      "type": "movie",
+      "name": "La verdadera vocación de Magdalena",
+      "year": 1971,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1971:laverdaderavocacindemagdalena:426",
+      "type": "movie",
+      "name": "La verdadera vocación de Magdalena",
+      "year": 1971,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1971:santocontralamafiadelvicio:427",
+      "type": "movie",
+      "name": "Santo contra la mafia del vicio",
+      "year": 1971,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1971:santocontralamafiadelvicio:427",
+      "type": "movie",
+      "name": "Santo contra la mafia del vicio",
+      "year": 1971,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1972:bellasdenoche:428",
+      "type": "movie",
+      "name": "Bellas de noche",
+      "year": 1972,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1972:bellasdenoche:428",
+      "type": "movie",
+      "name": "Bellas de noche",
+      "year": 1972,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1972:elrincndelasvrgenes:429",
+      "type": "movie",
+      "name": "El rincón de las vírgenes",
+      "year": 1972,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1972:elrincndelasvrgenes:429",
+      "type": "movie",
+      "name": "El rincón de las vírgenes",
+      "year": 1972,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1972:elvalssinfin:430",
+      "type": "movie",
+      "name": "El vals sin fin",
+      "year": 1972,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1972:elvalssinfin:430",
+      "type": "movie",
+      "name": "El vals sin fin",
+      "year": 1972,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1972:losdasdelamor:431",
+      "type": "movie",
+      "name": "Los días del amor",
+      "year": 1972,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1972:losdasdelamor:431",
+      "type": "movie",
+      "name": "Los días del amor",
+      "year": 1972,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1972:tontatontaperonotanto:432",
+      "type": "movie",
+      "name": "Tonta, tonta, pero no tanto",
+      "year": 1972,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1972:tontatontaperonotanto:432",
+      "type": "movie",
+      "name": "Tonta, tonta, pero no tanto",
+      "year": 1972,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1972:tontatontaperonotanto:432",
+      "type": "movie",
+      "name": "Tonta, tonta, pero no tanto",
+      "year": 1972,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1973:conserjeencondominio:433",
+      "type": "movie",
+      "name": "Conserje en condominio",
+      "year": 1973,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1973:conserjeencondominio:433",
+      "type": "movie",
+      "name": "Conserje en condominio",
+      "year": 1973,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1973:donquijotecabalgadenuevo:434",
+      "type": "movie",
+      "name": "Don Quijote cabalga de nuevo",
+      "year": 1973,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1973:donquijotecabalgadenuevo:434",
+      "type": "movie",
+      "name": "Don Quijote cabalga de nuevo",
+      "year": 1973,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1973:elcapitnmantarraya:435",
+      "type": "movie",
+      "name": "El capitán Mantarraya",
+      "year": 1973,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1973:elcapitnmantarraya:435",
+      "type": "movie",
+      "name": "El capitán Mantarraya",
+      "year": 1973,
+      "section": "Tin Tan"
+    },
+    {
+      "id": "mx:1973:elprincipio:436",
+      "type": "movie",
+      "name": "El principio",
+      "year": 1973,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1973:elprincipio:436",
+      "type": "movie",
+      "name": "El principio",
+      "year": 1973,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1973:elsantooficio:437",
+      "type": "movie",
+      "name": "El santo oficio",
+      "year": 1973,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1973:elsantooficio:437",
+      "type": "movie",
+      "name": "El santo oficio",
+      "year": 1973,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1973:lachoca:438",
+      "type": "movie",
+      "name": "La choca",
+      "year": 1973,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1973:lachoca:438",
+      "type": "movie",
+      "name": "La choca",
+      "year": 1973,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1973:pobreperohonrada:439",
+      "type": "movie",
+      "name": "Pobre, pero honrada",
+      "year": 1973,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1973:pobreperohonrada:439",
+      "type": "movie",
+      "name": "Pobre, pero honrada",
+      "year": 1973,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1973:pobreperohonrada:439",
+      "type": "movie",
+      "name": "Pobre, pero honrada",
+      "year": 1973,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1973:santocontralaslobas:440",
+      "type": "movie",
+      "name": "Santo contra las lobas",
+      "year": 1973,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1973:santocontralaslobas:440",
+      "type": "movie",
+      "name": "Santo contra las lobas",
+      "year": 1973,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1974:algoesalgodijoeldiablo:441",
+      "type": "movie",
+      "name": "Algo es algo dijo el diablo",
+      "year": 1974,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1974:algoesalgodijoeldiablo:441",
+      "type": "movie",
+      "name": "Algo es algo dijo el diablo",
+      "year": 1974,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1974:algoesalgodijoeldiablo:441",
+      "type": "movie",
+      "name": "Algo es algo dijo el diablo",
+      "year": 1974,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1974:canoa:442",
+      "type": "movie",
+      "name": "Canoa",
+      "year": 1974,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1974:canoa:442",
+      "type": "movie",
+      "name": "Canoa",
+      "year": 1974,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1974:elencuentrodeunhombresolo:443",
+      "type": "movie",
+      "name": "El encuentro de un hombre solo",
+      "year": 1974,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1974:elencuentrodeunhombresolo:443",
+      "type": "movie",
+      "name": "El encuentro de un hombre solo",
+      "year": 1974,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1974:feesperanzaycaridad:444",
+      "type": "movie",
+      "name": "Fe, esperanza y caridad",
+      "year": 1974,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1974:feesperanzaycaridad:444",
+      "type": "movie",
+      "name": "Fe, esperanza y caridad",
+      "year": 1974,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1974:lamadrecita:445",
+      "type": "movie",
+      "name": "La madrecita",
+      "year": 1974,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1974:lamadrecita:445",
+      "type": "movie",
+      "name": "La madrecita",
+      "year": 1974,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1974:lamadrecita:445",
+      "type": "movie",
+      "name": "La madrecita",
+      "year": 1974,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1974:lapasinsegnberenice:446",
+      "type": "movie",
+      "name": "La pasión según Berenice",
+      "year": 1974,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1974:lapasinsegnberenice:446",
+      "type": "movie",
+      "name": "La pasión según Berenice",
+      "year": 1974,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1974:presagio:447",
+      "type": "movie",
+      "name": "Presagio",
+      "year": 1974,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1974:presagio:447",
+      "type": "movie",
+      "name": "Presagio",
+      "year": 1974,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1975:actasdemarusia:448",
+      "type": "movie",
+      "name": "Actas de Marusia",
+      "year": 1975,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1975:actasdemarusia:448",
+      "type": "movie",
+      "name": "Actas de Marusia",
+      "year": 1975,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1975:elapando:449",
+      "type": "movie",
+      "name": "El apando",
+      "year": 1975,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1975:elapando:449",
+      "type": "movie",
+      "name": "El apando",
+      "year": 1975,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1975:elministroyyo:450",
+      "type": "movie",
+      "name": "El ministro y yo",
+      "year": 1975,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1975:elministroyyo:450",
+      "type": "movie",
+      "name": "El ministro y yo",
+      "year": 1975,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1975:lapresidentamunicipal:451",
+      "type": "movie",
+      "name": "La presidenta municipal",
+      "year": 1975,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1975:lapresidentamunicipal:451",
+      "type": "movie",
+      "name": "La presidenta municipal",
+      "year": 1975,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1975:lapresidentamunicipal:451",
+      "type": "movie",
+      "name": "La presidenta municipal",
+      "year": 1975,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1975:latrenza:452",
+      "type": "movie",
+      "name": "La trenza",
+      "year": 1975,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1975:latrenza:452",
+      "type": "movie",
+      "name": "La trenza",
+      "year": 1975,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1975:lasfuerzasvivas:453",
+      "type": "movie",
+      "name": "Las fuerzas vivas",
+      "year": 1975,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1975:lasfuerzasvivas:453",
+      "type": "movie",
+      "name": "Las fuerzas vivas",
+      "year": 1975,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1975:tvoli:454",
+      "type": "movie",
+      "name": "Tívoli",
+      "year": 1975,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1975:tvoli:454",
+      "type": "movie",
+      "name": "Tívoli",
+      "year": 1975,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1976:ellugarsinlmites:455",
+      "type": "movie",
+      "name": "El lugar sin límites",
+      "year": 1976,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1976:ellugarsinlmites:455",
+      "type": "movie",
+      "name": "El lugar sin límites",
+      "year": 1976,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1976:elmiedonoandaenburro:456",
+      "type": "movie",
+      "name": "El miedo no anda en burro",
+      "year": 1976,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1976:elmiedonoandaenburro:456",
+      "type": "movie",
+      "name": "El miedo no anda en burro",
+      "year": 1976,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1976:elmiedonoandaenburro:456",
+      "type": "movie",
+      "name": "El miedo no anda en burro",
+      "year": 1976,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1976:laspoquianchis:457",
+      "type": "movie",
+      "name": "Las Poquianchis",
+      "year": 1976,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1976:laspoquianchis:457",
+      "type": "movie",
+      "name": "Las Poquianchis",
+      "year": 1976,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1977:sortequila:458",
+      "type": "movie",
+      "name": "Sor Tequila",
+      "year": 1977,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1977:sortequila:458",
+      "type": "movie",
+      "name": "Sor Tequila",
+      "year": 1977,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1977:sortequila:458",
+      "type": "movie",
+      "name": "Sor Tequila",
+      "year": 1977,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1978:cadenaperpetua:459",
+      "type": "movie",
+      "name": "Cadena perpetua",
+      "year": 1978,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1978:cadenaperpetua:459",
+      "type": "movie",
+      "name": "Cadena perpetua",
+      "year": 1978,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1978:duroperoseguro:460",
+      "type": "movie",
+      "name": "Duro pero seguro",
+      "year": 1978,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1978:duroperoseguro:460",
+      "type": "movie",
+      "name": "Duro pero seguro",
+      "year": 1978,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1978:duroperoseguro:460",
+      "type": "movie",
+      "name": "Duro pero seguro",
+      "year": 1978,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1978:elpatrullero777:461",
+      "type": "movie",
+      "name": "El patrullero 777",
+      "year": 1978,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1978:elpatrullero777:461",
+      "type": "movie",
+      "name": "El patrullero 777",
+      "year": 1978,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1978:elpatrullero777:461",
+      "type": "movie",
+      "name": "El patrullero 777",
+      "year": 1978,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1978:lacomadrita:462",
+      "type": "movie",
+      "name": "La comadrita",
+      "year": 1978,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1978:lacomadrita:462",
+      "type": "movie",
+      "name": "La comadrita",
+      "year": 1978,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1978:lacomadrita:462",
+      "type": "movie",
+      "name": "La comadrita",
+      "year": 1978,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1979:elchanfle:463",
+      "type": "movie",
+      "name": "El Chanfle",
+      "year": 1979,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1979:elchanfle:463",
+      "type": "movie",
+      "name": "El Chanfle",
+      "year": 1979,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1979:marademicorazn:464",
+      "type": "movie",
+      "name": "María de mi corazón",
+      "year": 1979,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1979:marademicorazn:464",
+      "type": "movie",
+      "name": "María de mi corazón",
+      "year": 1979,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1979:okeymisterpancho:465",
+      "type": "movie",
+      "name": "Okey, Mister Pancho",
+      "year": 1979,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1979:okeymisterpancho:465",
+      "type": "movie",
+      "name": "Okey, Mister Pancho",
+      "year": 1979,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1981:elbarrendero:466",
+      "type": "movie",
+      "name": "El barrendero",
+      "year": 1981,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1981:elbarrendero:466",
+      "type": "movie",
+      "name": "El barrendero",
+      "year": 1981,
+      "section": "Cantinflas"
+    },
+    {
+      "id": "mx:1981:okeymisterpancho:467",
+      "type": "movie",
+      "name": "Okey, Mister Pancho",
+      "year": 1981,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1981:okeymisterpancho:467",
+      "type": "movie",
+      "name": "Okey, Mister Pancho",
+      "year": 1981,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1982:elchanfle2:468",
+      "type": "movie",
+      "name": "El Chanfle 2",
+      "year": 1982,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1982:elchanfle2:468",
+      "type": "movie",
+      "name": "El Chanfle 2",
+      "year": 1982,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1982:elquenocorrevuela:469",
+      "type": "movie",
+      "name": "¡El que no corre... vuela!",
+      "year": 1982,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1982:elquenocorrevuela:469",
+      "type": "movie",
+      "name": "¡El que no corre... vuela!",
+      "year": 1982,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1982:elquenocorrevuela:469",
+      "type": "movie",
+      "name": "¡El que no corre... vuela!",
+      "year": 1982,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1983:donratnydonratero:470",
+      "type": "movie",
+      "name": "Don Ratón y Don Ratero",
+      "year": 1983,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1983:donratnydonratero:470",
+      "type": "movie",
+      "name": "Don Ratón y Don Ratero",
+      "year": 1983,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1983:elcoyoteemplumado:471",
+      "type": "movie",
+      "name": "El coyote emplumado",
+      "year": 1983,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1983:elcoyoteemplumado:471",
+      "type": "movie",
+      "name": "El coyote emplumado",
+      "year": 1983,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1983:elcoyoteemplumado:471",
+      "type": "movie",
+      "name": "El coyote emplumado",
+      "year": 1983,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1984:charrito:472",
+      "type": "movie",
+      "name": "Charrito",
+      "year": 1984,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1984:charrito:472",
+      "type": "movie",
+      "name": "Charrito",
+      "year": 1984,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1984:nichananijuana:473",
+      "type": "movie",
+      "name": "Ni Chana, ni Juana",
+      "year": 1984,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1984:nichananijuana:473",
+      "type": "movie",
+      "name": "Ni Chana, ni Juana",
+      "year": 1984,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1984:nichananijuana:473",
+      "type": "movie",
+      "name": "Ni Chana, ni Juana",
+      "year": 1984,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1988:msicadeviento:474",
+      "type": "movie",
+      "name": "Música de viento",
+      "year": 1988,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1988:msicadeviento:474",
+      "type": "movie",
+      "name": "Música de viento",
+      "year": 1988,
+      "section": "Chespirito"
+    },
+    {
+      "id": "mx:1988:nideaqunideall:475",
+      "type": "movie",
+      "name": "Ni de aquí, ni de allá",
+      "year": 1988,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1988:nideaqunideall:475",
+      "type": "movie",
+      "name": "Ni de aquí, ni de allá",
+      "year": 1988,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1988:nideaqunideall:475",
+      "type": "movie",
+      "name": "Ni de aquí, ni de allá",
+      "year": 1988,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1988:rojoamanecer:476",
+      "type": "movie",
+      "name": "Rojo amanecer",
+      "year": 1988,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1988:rojoamanecer:476",
+      "type": "movie",
+      "name": "Rojo amanecer",
+      "year": 1988,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1991:danzn:477",
+      "type": "movie",
+      "name": "Danzón",
+      "year": 1991,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1991:danzn:477",
+      "type": "movie",
+      "name": "Danzón",
+      "year": 1991,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1992:comoaguaparachocolate:478",
+      "type": "movie",
+      "name": "Como agua para chocolate",
+      "year": 1992,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1992:comoaguaparachocolate:478",
+      "type": "movie",
+      "name": "Como agua para chocolate",
+      "year": 1992,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1992:cronos:479",
+      "type": "movie",
+      "name": "Cronos",
+      "year": 1992,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1992:cronos:479",
+      "type": "movie",
+      "name": "Cronos",
+      "year": 1992,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1993:seequivoclacigea:480",
+      "type": "movie",
+      "name": "Se equivocó la cigüeña",
+      "year": 1993,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1993:seequivoclacigea:480",
+      "type": "movie",
+      "name": "Se equivocó la cigüeña",
+      "year": 1993,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1993:seequivoclacigea:480",
+      "type": "movie",
+      "name": "Se equivocó la cigüeña",
+      "year": 1993,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:1994:elcallejndelosmilagros:481",
+      "type": "movie",
+      "name": "El callejón de los milagros",
+      "year": 1994,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1994:elcallejndelosmilagros:481",
+      "type": "movie",
+      "name": "El callejón de los milagros",
+      "year": 1994,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1996:profundocarmes:482",
+      "type": "movie",
+      "name": "Profundo carmesí",
+      "year": 1996,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1996:profundocarmes:482",
+      "type": "movie",
+      "name": "Profundo carmesí",
+      "year": 1996,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1998:sexopudorylgrimas:483",
+      "type": "movie",
+      "name": "Sexo, pudor y lágrimas",
+      "year": 1998,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1998:sexopudorylgrimas:483",
+      "type": "movie",
+      "name": "Sexo, pudor y lágrimas",
+      "year": 1998,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:1999:lasdeliciasdelpoder:484",
+      "type": "movie",
+      "name": "Las delicias del poder",
+      "year": 1999,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:1999:lasdeliciasdelpoder:484",
+      "type": "movie",
+      "name": "Las delicias del poder",
+      "year": 1999,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:1999:lasdeliciasdelpoder:484",
+      "type": "movie",
+      "name": "Las delicias del poder",
+      "year": 1999,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:2000:amoresperros:485",
+      "type": "movie",
+      "name": "Amores perros",
+      "year": 2000,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2000:amoresperros:485",
+      "type": "movie",
+      "name": "Amores perros",
+      "year": 2000,
+      "section": "Cine mexicano posterior / clásicos y culto"
+    },
+    {
+      "id": "mx:2001:ytumamtambin:486",
+      "type": "movie",
+      "name": "Y tu mamá también",
+      "year": 2001,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2001:ytumamtambin:486",
+      "type": "movie",
+      "name": "Y tu mamá también",
+      "year": 2001,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2002:elcrimendelpadreamaro:487",
+      "type": "movie",
+      "name": "El crimen del padre Amaro",
+      "year": 2002,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2002:elcrimendelpadreamaro:487",
+      "type": "movie",
+      "name": "El crimen del padre Amaro",
+      "year": 2002,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2003:temporadadepatos:488",
+      "type": "movie",
+      "name": "Temporada de patos",
+      "year": 2003,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2003:temporadadepatos:488",
+      "type": "movie",
+      "name": "Temporada de patos",
+      "year": 2003,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2004:huapango:489",
+      "type": "movie",
+      "name": "Huapango",
+      "year": 2004,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2004:huapango:489",
+      "type": "movie",
+      "name": "Huapango",
+      "year": 2004,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:2007:lazona:490",
+      "type": "movie",
+      "name": "La zona",
+      "year": 2007,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2007:lazona:490",
+      "type": "movie",
+      "name": "La zona",
+      "year": 2007,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2007:luzsilenciosa:491",
+      "type": "movie",
+      "name": "Luz silenciosa",
+      "year": 2007,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2007:luzsilenciosa:491",
+      "type": "movie",
+      "name": "Luz silenciosa",
+      "year": 2007,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2008:arrncamelavida:492",
+      "type": "movie",
+      "name": "Arráncame la vida",
+      "year": 2008,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2008:arrncamelavida:492",
+      "type": "movie",
+      "name": "Arráncame la vida",
+      "year": 2008,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2013:lajauladeoro:493",
+      "type": "movie",
+      "name": "La jaula de oro",
+      "year": 2013,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2013:lajauladeoro:493",
+      "type": "movie",
+      "name": "La jaula de oro",
+      "year": 2013,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2014:geros:494",
+      "type": "movie",
+      "name": "Güeros",
+      "year": 2014,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2014:geros:494",
+      "type": "movie",
+      "name": "Güeros",
+      "year": 2014,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2014:lahijademoctezuma:495",
+      "type": "movie",
+      "name": "La hija de Moctezuma",
+      "year": 2014,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2014:lahijademoctezuma:495",
+      "type": "movie",
+      "name": "La hija de Moctezuma",
+      "year": 2014,
+      "section": "La India María / María Elena Velasco"
+    },
+    {
+      "id": "mx:2014:lahijademoctezuma:495",
+      "type": "movie",
+      "name": "La hija de Moctezuma",
+      "year": 2014,
+      "section": "La India María"
+    },
+    {
+      "id": "mx:2018:roma:496",
+      "type": "movie",
+      "name": "Roma",
+      "year": 2018,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2018:roma:496",
+      "type": "movie",
+      "name": "Roma",
+      "year": 2018,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2019:yanoestoyaqu:497",
+      "type": "movie",
+      "name": "Ya no estoy aquí",
+      "year": 2019,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2019:yanoestoyaqu:497",
+      "type": "movie",
+      "name": "Ya no estoy aquí",
+      "year": 2019,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2021:nochedefuego:498",
+      "type": "movie",
+      "name": "Noche de fuego",
+      "year": 2021,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2021:nochedefuego:498",
+      "type": "movie",
+      "name": "Noche de fuego",
+      "year": 2021,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2023:ttem:499",
+      "type": "movie",
+      "name": "Tótem",
+      "year": 2023,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2023:ttem:499",
+      "type": "movie",
+      "name": "Tótem",
+      "year": 2023,
+      "section": "Cine mexicano contemporáneo"
+    },
+    {
+      "id": "mx:2024:pedropramo:500",
+      "type": "movie",
+      "name": "Pedro Páramo",
+      "year": 2024,
+      "section": "Cine mexicano posterior (1961-2024)"
+    },
+    {
+      "id": "mx:2024:pedropramo:500",
+      "type": "movie",
+      "name": "Pedro Páramo",
+      "year": 2024,
+      "section": "Cine mexicano contemporáneo"
+    }
+  ]
+}

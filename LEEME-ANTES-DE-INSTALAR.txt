@@ -1,0 +1,34 @@
+LA GRAN VIDEOTECA DEL CINE MEXICANO — STREMIO ADDON
+
+500 películas únicas:
+- 350 títulos de 1936 a 1960
+- 150 títulos posteriores, incluidos intérpretes y comedias solicitados
+
+Incluye secciones cuando corresponda: Cine de Oro, Cantinflas, Pedro Infante, Jorge Negrete,
+María Félix, Dolores del Río, Sara García, Tin Tan, Chespirito, La India María, Viruta y Capulina,
+y cine mexicano posterior.
+
+IMPORTANTE:
+- Es un addon de CATÁLOGO: organiza y muestra los títulos; no contiene streams ni fuentes de reproducción.
+- Los IDs mx: son IDs internos del addon. IMDb IDs reales no se han asignado.
+- Los títulos y años están recopilados de filmografías y listados de largometrajes; se recomienda
+  verificarlos uno por uno antes de considerar el catálogo como definitivo.
+- Sin IMDb IDs no se garantizan pósteres, fichas enriquecidas ni coincidencia con otros addons.
+
+PUBLICACIÓN:
+1. Descomprime el ZIP y sube todos sus archivos a un repositorio GitHub.
+2. En Render crea un Web Service conectado al repositorio.
+3. Build Command: npm install
+4. Start Command: npm start
+5. Despliega. Cuando tengas URL HTTPS, abre URL/manifest.json desde Stremio para instalar.
+6. Usa la misma cuenta Stremio en móvil y Android TV para sincronizar.
+
+Archivos:
+- server.js: servidor compatible con stremio-addon-sdk
+- catalog.json: entradas de catálogo por sección
+- package.json: dependencias
+
+Fuentes de consulta:
+- Filmografía Mexicana, Filmoteca UNAM: https://www.filmoteca.unam.mx/filmoteca-unam/servicios/especializados/catalogacion/
+- Anuarios IMCINE: https://imcine.gob.mx/
+- Listas históricas provisionales de largometrajes mexicanos: Infolaso (referencia secundaria).
