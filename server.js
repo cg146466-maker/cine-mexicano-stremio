@@ -7,20 +7,24 @@ const IMAGE_BASE = "https://image.tmdb.org/t/p/w500";
 const PAGE_SIZE = 40;
 const cache = new Map();
 const pending = new Map();
+const imdbToItem = new Map();
 
 const sections = [...new Set(items.map(x => x.section))]
   .map((name, i) => ({ id: `mxcat_${i}`, name }));
 
 const manifest = {
   id: "org.cinemexicano.videoteca500",
-  version: "2.1.0",
+  version: "2.2.0",
   name: "La gran videoteca del cine mexicano 🇲🇽",
-  description: "500 títulos organizados por época y figuras. Carteles y fichas enriquecidos desde TMDB cuando hay coincidencia fiable. Catálogo informativo; no contiene streams.",
+  description: "500 títulos organizados por época y figuras. IDs de IMDb cuando están disponibles para mejorar la compatibilidad con addons de reproducción. Carteles y fichas enriquecidos desde TMDB.",
   resources: ["catalog", "meta"],
   types: ["movie"],
-  idPrefixes: ["mx:"],
+  idPrefixes: ["tt", "mx:"],
   catalogs: sections.map(s => ({
-    type: "movie", id: s.id, name: s.name, extra: [{ name: "skip", isRequired: false }]
+    type: "movie",
+    id: s.id,
+    name: s.name,
+    extra: [{ name: "skip", isRequired: false }]
   }))
 };
 
@@ -28,6 +32,7 @@ function normalize(s) {
   return String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "")
     .toLocaleLowerCase("es").replace(/[^a-z0-9]+/g, " ").trim();
 }
+
 function similarity(a, b) {
   const aa = new Set(normalize(a).split(" ").filter(Boolean));
   const bb = new Set(normalize(b).split(" ").filter(Boolean));
@@ -36,6 +41,7 @@ function similarity(a, b) {
   for (const t of aa) if (bb.has(t)) common++;
   return common / (aa.size + bb.size - common);
 }
+
 async function tmdb(path) {
   if (!TOKEN) throw new Error("Falta TMDB_READ_ACCESS_TOKEN en Render");
   const response = await fetch(`${TMDB_BASE}${path}`, {
@@ -44,6 +50,7 @@ async function tmdb(path) {
   if (!response.ok) throw new Error(`TMDB respondió ${response.status}`);
   return response.json();
 }
+
 function bestMatch(item, results) {
   const year = Number(item.year);
   let best = null, bestScore = 0;
@@ -56,18 +63,24 @@ function bestMatch(item, results) {
     const yearDiff = resultYear ? Math.abs(year - resultYear) : 99;
     const country = (r.origin_country || []).includes("MX");
     const spanish = r.original_language === "es";
-    const score = titleScore * 0.78 + (yearDiff === 0 ? 0.18 : yearDiff === 1 ? 0.12 : yearDiff === 2 ? 0.05 : 0) + (country ? 0.08 : 0) + (spanish ? 0.03 : 0);
-    if (score > bestScore) { best = r; bestScore = score; }
+    const score = titleScore * 0.78
+      + (yearDiff === 0 ? 0.18 : yearDiff === 1 ? 0.12 : yearDiff === 2 ? 0.05 : 0)
+      + (country ? 0.08 : 0) + (spanish ? 0.03 : 0);
+    if (score > bestScore) {
+      best = r;
+      bestScore = score;
+    }
   }
-  // Reject weak title matches and distant release years to avoid wrong posters.
   if (!best || bestScore < 0.82) return null;
   const resultYear = Number(String(best.release_date || "").slice(0, 4));
   if (resultYear && Math.abs(year - resultYear) > 2) return null;
   return { ...best, _confidence: bestScore };
 }
+
 async function lookup(item) {
   if (cache.has(item.id)) return cache.get(item.id);
   if (pending.has(item.id)) return pending.get(item.id);
+
   const task = (async () => {
     try {
       const q = encodeURIComponent(item.name);
@@ -78,6 +91,16 @@ async function lookup(item) {
         data = await tmdb(`/search/movie?query=${q}&include_adult=false&language=es-ES`);
         match = bestMatch(item, data.results);
       }
+
+      if (match) {
+        try {
+          const external = await tmdb(`/movie/${match.id}/external_ids`);
+          match.imdb_id = external.imdb_id || null;
+          if (match.imdb_id) imdbToItem.set(match.imdb_id, item);
+        } catch (err) {
+          console.error(`No se pudo obtener IMDb para ${item.name}: ${err.message}`);
+        }
+      }
       cache.set(item.id, match);
       return match;
     } catch (err) {
@@ -87,9 +110,11 @@ async function lookup(item) {
       pending.delete(item.id);
     }
   })();
+
   pending.set(item.id, task);
   return task;
 }
+
 async function mapLimit(rows, limit, fn) {
   const result = new Array(rows.length);
   let next = 0;
@@ -103,12 +128,16 @@ async function mapLimit(rows, limit, fn) {
   await Promise.all(Array.from({ length: Math.min(limit, rows.length) }, worker));
   return result;
 }
+
 function posterUrl(path) {
   return path ? `${IMAGE_BASE}${path}` : undefined;
 }
+
 function catalogMeta(item, match) {
   const meta = {
-    id: item.id, type: "movie", name: item.name,
+    id: (match && match.imdb_id) || item.id,
+    type: "movie",
+    name: item.name,
     releaseInfo: String(item.year),
     description: match && match.overview ? match.overview : `${item.section} · ${item.year}`
   };
@@ -119,10 +148,12 @@ function catalogMeta(item, match) {
   if (match && match.vote_average) meta.rating = String(match.vote_average.toFixed(1));
   return meta;
 }
-async function fullMeta(item) {
-  const match = await lookup(item);
+
+async function fullMeta(item, knownMatch) {
+  const match = knownMatch || await lookup(item);
   const meta = catalogMeta(item, match);
   if (!match) return meta;
+
   try {
     const details = await tmdb(`/movie/${match.id}?language=es-ES`);
     const credits = await tmdb(`/movie/${match.id}/credits?language=es-ES`);
@@ -134,7 +165,9 @@ async function fullMeta(item) {
     const cast = (credits.cast || []).slice(0, 12).map(p => p.name);
     if (directors.length) meta.director = directors;
     if (cast.length) meta.cast = cast;
-    if (details.production_countries) meta.country = details.production_countries.map(c => c.name).join(", ");
+    if (details.production_countries) {
+      meta.country = details.production_countries.map(c => c.name).join(", ");
+    }
     if (details.poster_path) meta.poster = posterUrl(details.poster_path);
     if (details.backdrop_path) meta.background = posterUrl(details.backdrop_path);
   } catch (err) {
@@ -144,26 +177,55 @@ async function fullMeta(item) {
 }
 
 const builder = new addonBuilder(manifest);
+
 builder.defineCatalogHandler(async ({ type, id, extra }) => {
   if (type !== "movie") return { metas: [] };
   const section = sections.find(s => s.id === id);
   if (!section) return { metas: [] };
+
   let rows = items.filter(x => x.section === section.name);
   if (extra && extra.search) {
     const q = normalize(extra.search);
     rows = rows.filter(x => normalize(x.name).includes(q));
   }
+
   const unique = [...new Map(rows.map(x => [x.id, x])).values()];
   const skip = Math.max(0, Number(extra && extra.skip) || 0);
   const page = unique.slice(skip, skip + PAGE_SIZE);
-  const matches = await mapLimit(page, 6, lookup);
+  const matches = await mapLimit(page, 4, lookup);
   return { metas: page.map((item, i) => catalogMeta(item, matches[i])) };
 });
+
 builder.defineMetaHandler(async ({ type, id }) => {
   if (type !== "movie") return { meta: null };
-  const item = items.find(x => x.id === id);
+
+  let item = items.find(x => x.id === id);
+  let match = null;
+
+  if (!item && /^tt\d+$/.test(id)) {
+    item = imdbToItem.get(id) || null;
+    if (!item) {
+      try {
+        const found = await tmdb(`/find/${encodeURIComponent(id)}?external_source=imdb_id&language=es-ES`);
+        const result = (found.movie_results || [])[0];
+        if (result) {
+          item = {
+            id,
+            type: "movie",
+            name: result.title || result.original_title || id,
+            year: Number(String(result.release_date || "").slice(0, 4)) || 0,
+            section: "Cine mexicano"
+          };
+          match = { ...result, imdb_id: id };
+        }
+      } catch (err) {
+        console.error(`No se pudo resolver IMDb ${id}: ${err.message}`);
+      }
+    }
+  }
+
   if (!item) return { meta: null };
-  return { meta: await fullMeta(item) };
+  return { meta: await fullMeta(item, match) };
 });
 
 serveHTTP(builder.getInterface(), { port: process.env.PORT || 7000 });
